@@ -1,0 +1,744 @@
+
+
+
+<div data-elementor-type="wp-post" data-elementor-id="702" class="elementor elementor-702" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-8ee2f2b elementor-section-content-middle home_first_sec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8ee2f2b" data-element_type="section">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d65ca8a" data-id="d65ca8a" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-e17cb77 main_title animated-slow elementor-widget elementor-widget-heading" data-id="e17cb77" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Smart, Connected, IoT. <br>The Future of Products is AIoT.</h1> </div>
+</div>
+<div class="elementor-element elementor-element-0e81fa7 main_dec animated-slow elementor-widget elementor-widget-text-editor" data-id="0e81fa7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style> <p><span style="color: var(--txt-color); letter-spacing: 0px;">The world is witnessing unprecedented information and data explosion. Businesses must innovate at an incredible pace to stay ahead. However, very few have the resources and expertise to do everything. </span></p>
+<p><span style="color: var(--txt-color); letter-spacing: 0px;">We help you accelerate with AI and IoT, and be successful </span><span style="color: var(--txt-color); letter-spacing: 0px;">in your journey to digital.</span></p>
+<p>Re-imagine your product and services’ experiences in a world of digital and IoT.<br>Zapario&#8217;s edge to cloud and managed cloud services with AI and mobile capabilities deliver cutting-edge solutions in mobile health for patient experience, mobile commerce, smart retail, ODM for Electronics, and more.</p> </div>
+</div>
+<div class="elementor-element elementor-element-1622499 btn_solution elementor-widget elementor-widget-button" data-id="1622499" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-right">
+<svg xmlns="http://www.w3.org/2000/svg" width="80.000000pt" height="20.000000pt" viewBox="0 0 80.000000 20.000000" preserveAspectRatio="xMidYMid meet"><g transform="translate(0.000000,20.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none"><path d="M640 180 c14 -4 39 -9 55 -10 27 -1 28 -2 9 -10 -12 -4 -83 -18 -159 -30 -109 -18 -166 -22 -270 -18 -122 4 -136 7 -199 36 -38 18 -63 26 -57 18 19 -22 102 -54 172 -65 98 -16 240 -13 388 9 74 11 136 18 138 17 1 -2 -20 -25 -47 -52 -28 -27 -50 -53 -50 -57 0 -10 149 106 168 130 22 28 -12 42 -97 41 -54 -1 -69 -3 -51 -9z"></path></g></svg> </span>
+<span class="elementor-button-text"> Technologies</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-d9543bc btn_inline elementor-widget elementor-widget-button" data-id="d9543bc" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://zapario.com/iot-intelligent-cloud/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Cloud</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-c095149 btn_inline animated-slow elementor-widget elementor-widget-button" data-id="c095149" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://zapario.com/iot-intelligent-edge/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Edge</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-50abf57 btn_inline elementor-widget elementor-widget-button" data-id="50abf57" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://zapario.com/iot-app-development/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Apps</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-2a9a6bb btn_inline animated-slow elementor-widget elementor-widget-button" data-id="2a9a6bb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://zapario.com/device-security/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Security</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5d12c38 feature_bg_sec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d12c38" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-19fdb9d" data-id="19fdb9d" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-cedde29 cent_title elementor-widget elementor-widget-heading" data-id="cedde29" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Solutions We Deliver​</h2> </div>
+</div>
+<div class="elementor-element elementor-element-499413b cent_dec elementor-widget elementor-widget-text-editor" data-id="499413b" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="sec_title text-center"><div class="sec_title text-center "><div class="sec_title text-center mb_70"><p class="f_400 f_size_16 wow fadeInUp animated" style="visibility: visible; animation-delay: 0.2s;" data-wow-delay="0.2s">Zapario delivers digital transformation solutions in IoT, Healthcare, Mobile Commerce, Smart Retail, and acts as an ODM for electronics OEMs. </p><p class="f_400 f_size_16 wow fadeInUp animated" style="visibility: visible; animation-delay: 0.2s;" data-wow-delay="0.2s">With deep expertise in cloud computing and edge computing, mobile, analytics, artificial intelligence, electronics engineering design, and electronics manufacturing, we are<span style="text-align: left; letter-spacing: 0px;"> your single accountability partner, working as an extension of your team to reimagine and deliver end-to-end digital products and services.</span></p><p class="f_400 f_size_16 wow fadeInUp animated" style="visibility: visible; animation-delay: 0.2s;" data-wow-delay="0.2s"><span style="text-align: left; letter-spacing: 0px;">Zapario engages OEMs on digital strategy, envisioning, planning and design, prototyping, manufacturing, and launching your IoT products and services. OEMs leverage our IP and expertise to accelerate their transformation. To ensure success, we remain engaged from concept to launch, rollout, and successful customer adoption.</span></p></div></div></div> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-e68e4cf elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e68e4cf" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-11a4435" data-id="11a4435" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-24b9a56 elementor-widget elementor-widget-heading" data-id="24b9a56" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">IoT Solution for OEMs<br>
+Zapario Edge to Cloud</h2> </div>
+</div>
+<div class="elementor-element elementor-element-36c771a elementor-widget elementor-widget-text-editor" data-id="36c771a" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Zapario&#8217;s edge to cloud IoT platform and services enables OEMs to Connect Anything, Monitor Anything, Track Anything.</p><p>OEM branded managed IoT as a service that comprises deploying and managing all types of edge devices, managed cloud platform with AI and analytics, and mobile apps for interactive user experiences.</p><p>Our IoT solution lights up new use cases and revenue for OEMs.</p> </div>
+</div>
+<div class="elementor-element elementor-element-a9d3597 btn_cm elementor-align-left elementor-widget elementor-widget-button" data-id="a9d3597" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://zapario.com/iot/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">See More</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-19f309e" data-id="19f309e" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-39782c8 elementor-widget elementor-widget-image" data-id="39782c8" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> <img fetchpriority="high" decoding="async" width="1024" height="639" alt data-srcset="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-1024x639.png 1024w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-300x187.png 300w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-768x479.png 768w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-1536x959.png 1536w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-770x480.png770w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2.png1693w" data-src="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-1024x639.png" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img fetchpriority="high" decoding="async" width="1024" height="639" src="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-1024x639.png" class="attachment-large size-large" alt="" srcset="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-1024x639.png 1024w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-300x187.png 300w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-768x479.png 768w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-1536x959.png 1536w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2-770x480.png770w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-2.png1693w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="elementor-element elementor-element-6d7dd07 elementor-widget elementor-widget-text-editor" data-id="6d7dd07" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+</div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-f6ca1f9 elementor-section-content-middle h_feature_2 cm-padding elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f6ca1f9" data-element_type="section" data-settings="{&quot;shape_divider_top&quot;:&quot;curve-asymmetrical&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-shape elementor-shape-top" data-negative="false">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+<path class="elementor-shape-fill" d="M0,0c0,0,0,6,0,6.7c0,18,240.2,93.6,615.2,92.6C989.8,98.5,1000,25,1000,6.7c0-0.7,0-6.7,0-6.7H0z" />
+</svg> </div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c2173af" data-id="c2173af" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-ecdd355 elementor-widget elementor-widget-image" data-id="ecdd355" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+    <img decoding="async" width="1024" height="753" alt="" data-srcset="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-1024x753.png 1024w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-300x220.png 300w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-768x564.png 768w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-1536x1129.png 1536w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-110x80.png 110w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1.png 1728w" data-src="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-1024x753.png" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large ls-is-cached lazyloaded" src="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-1024x753.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-1024x753.png 1024w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-300x220.png 300w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-768x564.png 768w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-1536x1129.png 1536w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1-110x80.png 110w, https://storage.googleapis.com/z-wp-content/Zapario-Homepage-3-1.png 1728w"></noscript> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a9e85d3" data-id="a9e85d3" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-beb4f9a sec_title elementor-widget elementor-widget-heading" data-id="beb4f9a" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">End-to-End ODM Solution for Electronics OEMs
+</h2> </div>
+</div>
+<div class="elementor-element elementor-element-fd067dd elementor-widget elementor-widget-text-editor" data-id="fd067dd" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Zapario&#8217;s streamlines electronics engineering design to electronics manufacturing including supply chain management with a single point of accountability.</p><p>We manage design projects from concept through prototyping, manufacturing, and final inspection to deliver production volumes at scale. We help OEMs innovate by optimizing hardware, firmware, system software, and application software.</p><p>Increase efficiency, minimize redundancy, and eliminate the unnecessary overhead of managing multiple suppliers,.</p><p>Seeking a viable alternative to China? We can help.</p> </div>
+</div>
+<div class="elementor-element elementor-element-0def852 elementor-widget elementor-widget-text-editor" data-id="0def852" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-element elementor-element-a9d3597 btn_cm elementor-align-left elementor-widget elementor-widget-button">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper"><a class="iot_link elementor-button-link elementor-button elementor-size-sm" role="button" href="https://zapario.com/electronics-engineering-design/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Engineering Design</span>
+</span>
+</a><a class="iot_link elementor-button-link elementor-button elementor-size-sm" role="button" href="https://zapario.com/electronics-manufacturing-services/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">EMS (Manufacturing)</span>
+</span>
+</a></div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-95a0b8d elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="95a0b8d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da10a26" data-id="da10a26" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-a160072 elementor-widget elementor-widget-Saasland_tabs_horizontal" data-id="a160072" data-element_type="widget" data-widget_type="Saasland_tabs_horizontal.default">
+<div class="elementor-widget-container">
+<section class="pos_developer_product_area sec_pad ht-tab tabs-a160072" id="tabs-a160072">
+<div class="container">
+<div class="hosting_title text-center">
+<h3 class="saasland_horizontal_tab_s wow fadeInUp" data-wow-delay="0.3s">
+Our Services Capabilities Across</br>
+Electronics Engineering Design, Hardware, Software,</br> and Manufacturing </h3>
+</div>
+<div class="row">
+<div class="col-lg-6">
+<div class="tab_img_info">
+<div class="tab_img active" id="ht2_tab_0_a160072">
+<img decoding="async" data-wow-delay="0.4s" alt="Engineering Design" data-src="https://storage.googleapis.com/z-wp-content/Electronics-Engineering-2.png" class="img-fluid wow fadeInRight lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="img-fluid wow fadeInRight" data-wow-delay="0.4s" src="https://storage.googleapis.com/z-wp-content/Electronics-Engineering-2.png" alt="Engineering Design"></noscript>
+<div class="square"></div>
+<div class="bg_circle elementor-repeater-item-93e690c"></div>
+<div data-parallax="{&quot;x&quot;: 0, &quot;y&quot;: 100}" class="tab_round"></div>
+<div data-parallax="{&quot;x&quot;: 50, &quot;y&quot;: 5}" class="tab_triangle"></div>
+<div data-parallax="{&quot;x&quot;: 0, &quot;y&quot;: 100}">
+<div class="pattern_shap" style="background: url(https://storage.googleapis.com/z-wp-content/tab_pattern.png);"></div>
+</div>
+</div>
+<div class="tab_img " id="ht2_tab_1_a160072">
+<img decoding="async" data-wow-delay="0.4s" alt="Software Services" data-src="https://storage.googleapis.com/z-wp-content/Zapario-2-1.png" class="img-fluid wow fadeInRight lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="img-fluid wow fadeInRight" data-wow-delay="0.4s" src="https://storage.googleapis.com/z-wp-content/Zapario-2-1.png" alt="Software Services"></noscript>
+<div class="square"></div>
+<div class="bg_circle elementor-repeater-item-6fb1440"></div>
+<div data-parallax="{&quot;x&quot;: 0, &quot;y&quot;: 100}" class="tab_round"></div>
+<div data-parallax="{&quot;x&quot;: 50, &quot;y&quot;: 5}" class="tab_triangle"></div>
+<div data-parallax="{&quot;x&quot;: 0, &quot;y&quot;: 100}">
+<div class="pattern_shap" style="background: url(https://storage.googleapis.com/z-wp-content/tab_pattern.png);"></div>
+</div>
+</div>
+<div class="tab_img " id="ht2_tab_2_a160072">
+<img decoding="async" data-wow-delay="0.4s" alt="EMS (Manufacturing)" data-src="https://storage.googleapis.com/z-wp-content/Zapario-1.png" class="img-fluid wow fadeInRight lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="img-fluid wow fadeInRight" data-wow-delay="0.4s" src="https://storage.googleapis.com/z-wp-content/Zapario-1.png" alt="EMS (Manufacturing)"></noscript>
+<div class="square"></div>
+<div class="bg_circle elementor-repeater-item-fe68d6e"></div>
+<div data-parallax="{&quot;x&quot;: 0, &quot;y&quot;: 100}" class="tab_round"></div>
+<div data-parallax="{&quot;x&quot;: 50, &quot;y&quot;: 5}" class="tab_triangle"></div>
+<div data-parallax="{&quot;x&quot;: 0, &quot;y&quot;: 100}">
+<div class="pattern_shap" style="background: url(ttps://storage.googleapis.com/z-wp-content/tab_pattern.png);"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6 d-flex align-items-center">
+<div class="developer_product_content">
+<ul class="nav nav-tabs develor_tab mb-30" id="myTab-a160072" role="tablist">
+<li class="nav-item">
+<a class="nav-link  active show" id="saasland-tab-1691" data-toggle="tab" role="tab" data-tab="ht2_tab_0_a160072" href="#saasland-tab-content-1691" aria-controls="saasland-tab-content-1691" aria-selected="false">
+Engineering Design </a>
+</li>
+<li class="nav-item">
+<a class="nav-link " id="saasland-tab-1692" data-toggle="tab" role="tab" data-tab="ht2_tab_1_a160072" href="#saasland-tab-content-1692" aria-controls="saasland-tab-content-1692" aria-selected="true">
+Software Services </a>
+</li>
+<li class="nav-item">
+<a class="nav-link " id="saasland-tab-1693" data-toggle="tab" role="tab" data-tab="ht2_tab_2_a160072" href="#saasland-tab-content-1693" aria-controls="saasland-tab-content-1693" aria-selected="false">
+EMS (Manufacturing) </a>
+</li>
+</ul>
+<div class="tab-content developer_tab_content">
+<div class="tab-pane fade  active show" aria-labelledby="saasland-tab-1691" role="tabpanel" id="saasland-tab-content-1691">
+<h4>Electronics Engineering Design</h4><p>Leverage our decades of experience in electronics engineering design and embedded software projects through its entire lifecycle.</p><p> </p><p>We focus on fast entry to market, shorter design cycles, optimized cost, and high-quality, resilient board designs that electronics OEMs can scale quickly.</p><p> </p><p>We advise in making the optimal silicon platform choice based on end-product specifications and market needs. Turn to us for firmware development for your semiconductor platform.</p><p> </p><p>Zapario delivers high-performance PCB physical design (layout) utilizing all widely used industry software.</p> </div>
+<div class="tab-pane fade " aria-labelledby="saasland-tab-1692" role="tabpanel" id="saasland-tab-content-1692">
+<h4>Do more with Software.<br/>Cloud and Edge, AI and Analytics.</h4><h6>Level-Up Your Product</h6><p>And your entire business model with advanced software services. Imagine the possibilities of delivering incredible new customer experiences built on AI and analytics in the cloud and at the edge..</p><h6> </h6><h6>Elevate Functionality</h6><p>And usage with IoT devices and sensors, equipment, and data at the core. Automate and simplify tedious tasks and leverage edge and cloud-connected work-loads to increase productivity and free up valuable resources.</p> </div>
+<div class="tab-pane fade " aria-labelledby="saasland-tab-1693" role="tabpanel" id="saasland-tab-content-1693">
+<h4>Your Best Value EMS.</h4><p>Streamline design-to-manufacturing, integrate supply chain, and work with a single EMS partner to build, and ship electronics products world-wide. We provide a viable alternative to PCBA or contract manufacturing your electronics product in China.<br/><br/></p><h6>On-demand Capacity</h6><p>Our Manufacturing as a Service “MaaS” gives OEMs on-demand scaling without the need to plan and manage factory capacity.</p><h6> </h6><h6>Unparalleled Flexibility at Optimal Cost</h6><p>Get top quality, reliable and predictable delivery times, raw material inventory planning and management, component end of life management, and finished goods inventory at optimal cost resulting in best-in-class value. Ask us about IoT manufacturing.</p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script>
+                ;(function($){
+                    "use strict";
+                    $(document).ready(function () {
+                        $("#tabs-a160072 .develor_tab li a").click(function() {
+                            var tab_id = $(this).attr("data-tab");
+                            $("#tabs-a160072 .tab_img").removeClass("active");
+                            $("#" + tab_id).addClass("active");
+                        });
+                    })
+                })(jQuery);
+            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-ac26087 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ac26087" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e4057f5" data-id="e4057f5" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-51735be cent_title elementor-widget elementor-widget-heading" data-id="51735be" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Your Competitive Advantage</h2> </div>
+</div>
+<div class="elementor-element elementor-element-4094322 cent_dec elementor-widget elementor-widget-text-editor" data-id="4094322" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="sec_title text-center mb_30"><p class="f_400 f_size_16 wow fadeInUp" data-wow-delay="0.2s">Zapario delivers innovative IoT, Smart Retail, and ODM for Electronics solutions to OEMs by leveraging a tailored combination of all our services capabilities of engineering design, software, and manufacturing. Our expertise and services capabilities enable a market advantage of consistent and cost effective outcomes for electronics OEMs and semiconductor companies.</p><p data-wow-delay="0.2s">We  will hit the ground running to engage as an extension of your team. Zapario will do what it takes to make you successful.</p></div> </div>
+</div>
+<div class="elementor-element elementor-element-eaf522d elementor-widget elementor-widget-saasland_posts_carousel" data-id="eaf522d" data-element_type="widget" data-widget_type="saasland_posts_carousel.default">
+<div class="elementor-widget-container">
+<div class="case_studies_slider owl-carousel">
+<div class="studies_item">
+<img decoding="async" width="370" height="360" alt data-src="https://storage.googleapis.com/z-wp-content/Offshore-EMS-Partner-2-370x360.jpg" class="attachment-saasland_370x360 size-saasland_370x360 wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="370" height="360" src="https://storage.googleapis.com/z-wp-content/Offshore-EMS-Partner-2-370x360.jpg" class="attachment-saasland_370x360 size-saasland_370x360 wp-post-image" alt="" /></noscript> <div class="text">
+<a href="https://zapario.com/five-must-haves-in-ems-partner/">
+<h4 title="Part 2: Top Five Must-Haves in an Offshore EMS Partner">Part 2: Top Five Must-Haves in...</h4>
+</a>
+<p> <a href="https://zapario.com/category/electronics-manufacturing/" rel="category tag">Electronics Manufacturing</a> </p>
+</div>
+</div>
+<div class="studies_item">
+<img decoding="async" width="370" height="360" alt data-src="https://storage.googleapis.com/z-wp-content/Electronics-Manufacturing-Services-370x360.jpg" class="attachment-saasland_370x360 size-saasland_370x360 wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="370" height="360" src="https://storage.googleapis.com/z-wp-content/Electronics-Manufacturing-Services-370x360.jpg" class="attachment-saasland_370x360 size-saasland_370x360 wp-post-image" alt="" /></noscript> <div class="text">
+<a href="https://zapario.com/why-india-is-a-smart-choice-for-electronics-manufacturing/">
+<h4 title="Why India is a Smart Choice for Electronics Manufacturing">Why India is a Smart Choice fo...</h4>
+</a>
+<p> <a href="https://zapario.com/category/electronics-manufacturing/" rel="category tag">Electronics Manufacturing</a> </p>
+</div>
+</div>
+<div class="studies_item">
+<img decoding="async" width="370" height="360" alt data-src="https://storage.googleapis.com/z-wp-content/Blog-photo-1536x864-1-370x360.jpg" class="attachment-saasland_370x360 size-saasland_370x360 wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="370" height="360" src="https://storage.googleapis.com/z-wp-content/Blog-photo-1536x864-1-370x360.jpg" class="attachment-saasland_370x360 size-saasland_370x360 wp-post-image" alt="" /></noscript> <div class="text">
+<a href="https://zapario.com/part-1-are-you-considering-outsourcing-your-electronics-manufacturing/">
+<h4 title="Part 1: Are You Considering Outsourcing Your Electronics Manufacturing">Part 1: Are You Considering Ou...</h4>
+</a>
+<p> <a href="https://zapario.com/category/electronics-manufacturing/" rel="category tag">Electronics Manufacturing</a> </p>
+</div>
+</div>
+</div>
+<script>
+            ;(function($){
+                "use strict";
+                $(document).ready(function () {
+                    var CSlider = $(".case_studies_slider");
+                    if ( CSlider.length ){
+                        CSlider.owlCarousel({
+                            loop:true,
+                            margin:0,
+                            items: 3,
+                            autoplay: true,
+                                                        smartSpeed: 1000,
+                            responsiveClass:true,
+                            nav: false,
+                            dots: true,
+                            responsive:{
+                                0:{
+                                    items: 1
+                                },
+                                650:{
+                                    items:2,
+                                },
+                                776:{
+                                    items:3,
+                                },
+                                1199:{
+                                    items:3,
+                                },
+                            },
+                        })
+                    }
+                });
+            })(jQuery)
+        </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-da4329e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="da4329e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e5bc27" data-id="5e5bc27" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-edb4925 elementor-widget elementor-widget-saasland_curve_counter" data-id="edb4925" data-element_type="widget" data-widget_type="saasland_curve_counter.default">
+<div class="elementor-widget-container">
+<section class="seo_fact_area sec_pad">
+<div class="home_bubble">
+<div class="bubble b_one"></div>
+<div class="bubble b_three"></div>
+<div class="bubble b_four"></div>
+<div class="bubble b_six"></div>
+<div class="triangle b_eight" data-parallax="{&quot;x&quot;: 120, &quot;y&quot;: -10}">
+<img decoding="async" alt data-src="https://storage.googleapis.com/z-wp-content/triangle_one.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" src="https://storage.googleapis.com/z-wp-content/triangle_one.png" alt=""></noscript>
+</div>
+</div>
+<div class="container">
+<div class="seo_sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
+<h2> Zapario in Numbers </h2>
+</div>
+<div class="seo_fact_info">
+<div class="seo_fact_item ">
+<div class="text">
+<div class="counter one elementor-repeater-item-731f01c"> 72 </div>
+<p> Happy <BR> Customers </p>
+</div>
+</div>
+<div class="seo_fact_item ">
+<div class="text">
+<div class="counter one elementor-repeater-item-5f0eb18"> 174 </div>
+<p> Active <BR> Designs </p>
+</div>
+</div>
+<div class="seo_fact_item ">
+<div class="text">
+<div class="counter one elementor-repeater-item-fffe385"> 155 </div>
+<p> Years of Combined Executive <BR> Experience </p>
+</div>
+</div>
+<div class="seo_fact_item  last">
+<div class="text">
+<div class="counter one elementor-repeater-item-8e5bcf4"> 97 </div>
+<p> Percentage (%) Projects Delivered <BR> On Time </p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="testimonial_sec">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 d-flex align-items-center">
+                <div class="testimonial_title">
+                    <h2>Testimonials from Satisfied Clients</h2>
+                    <p>Zapario is guided by a core principle of customers for life. We are always customer focused,
+                        anticipating your business needs, being responsive, and delivering above and beyond to keep
+                        delighting our customers.</p>
+                </div>
+            </div>
+            <div class="col-lg-6 offset-lg-1">
+                <div id="testimonialCarousel" class="carousel slide testimonial_slider_container" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <p>Since 2014, we have worked with Zapario for our ODM and engineering design. Over the
+                                years, they have completed a wide range of projects from hardware redesign, Design for
+                                Manufacturability (DFM), firmware and software. Zapario always strives to deliver projects
+                                with a high quality of workmanship, on time, and within budget. We can always count on
+                                Zapario to be responsive when we have tight project deadlines and last-minute requests.
+                                They have truly delivered as a strategic ODM partner.</p>
+                            <h5>Sam M</h5>
+                            <h6>CTO</h6>
+                        </div>
+                        <div class="carousel-item">
+                            <p>As a longtime electronics products’ procurement manager, I found Zapario provides quality
+                                custom electronic build components at excellent pricing, with exceptional customer
+                                service, reliable communications with follow-up. US based with direct offshore quality
+                                manufacturing facilities. PCB’s, PCB assemblies, cables, electronic components, custom
+                                mechanical, full box builds, design, software integration. They are extremely helpful.</p>
+                            <h5>Mark Y</h5>
+                            <h6>Engineering & Supply Chain</h6>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-054d26b serv-title elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="054d26b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0939687" data-id="0939687" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-be04356 cent_title elementor-widget elementor-widget-heading" data-id="be04356" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">We Serve the Commercial &amp; Industrial Sectors</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-432b676 serve_sec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="432b676" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b881644" data-id="b881644" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-44fc250 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="44fc250" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="32.5" viewBox="0 0 37 32.5"><path id="Icon_awesome-industry" data-name="Icon awesome-industry" d="M33.407,11.516,23.625,17.74v-4.8a1.689,1.689,0,0,0-2.593-1.424L11.25,17.74V3.938A1.687,1.687,0,0,0,9.563,2.25H1.688A1.687,1.687,0,0,0,0,3.938V32.063A1.687,1.687,0,0,0,1.688,33.75H34.313A1.687,1.687,0,0,0,36,32.063V12.94A1.689,1.689,0,0,0,33.407,11.516Z" transform="translate(0.5 -1.75)" fill="none" stroke="#000" stroke-width="1"></path></svg> </span>
+<span class="elementor-button-text">MANUFACTURING</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2109fbb" data-id="2109fbb" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-2cbacf2 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="2cbacf2" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="36.59" height="37.516" viewBox="0 0 36.59 37.516"><g id="Group_3" data-name="Group 3" transform="translate(-667 -6018)"><path id="Icon_awesome-globe" data-name="Icon awesome-globe" d="M21.917,10.463c-.944-5.816-3.172-9.9-5.764-9.9s-4.82,4.084-5.764,9.9ZM9.9,16.715a40.824,40.824,0,0,0,.215,4.168H22.184a40.824,40.824,0,0,0,.215-4.168,40.824,40.824,0,0,0-.215-4.168H10.115A40.824,40.824,0,0,0,9.9,16.715Zm21.148-6.253A16.187,16.187,0,0,0,20.758,1.24a21.983,21.983,0,0,1,3.257,9.223ZM11.541,1.24A16.176,16.176,0,0,0,1.257,10.463H8.291a21.893,21.893,0,0,1,3.25-9.223Zm20.2,11.307H24.275c.137,1.368.215,2.768.215,4.168s-.078,2.8-.215,4.168h7.464a16.014,16.014,0,0,0,.56-4.168A16.293,16.293,0,0,0,31.745,12.547ZM7.816,16.715c0-1.4.078-2.8.215-4.168H.56a15.791,15.791,0,0,0,0,8.337H8.024C7.894,19.516,7.816,18.116,7.816,16.715Zm2.573,6.253c.944,5.816,3.172,9.9,5.764,9.9s4.82-4.084,5.764-9.9Zm10.376,9.223a16.2,16.2,0,0,0,10.291-9.223H24.021a21.983,21.983,0,0,1-3.257,9.223ZM1.257,22.968a16.187,16.187,0,0,0,10.291,9.223,21.983,21.983,0,0,1-3.257-9.223H1.257Z" transform="translate(668.975 6020.332)" fill="none" stroke="#000" stroke-width="1"></path><g id="Ellipse_23" data-name="Ellipse 23" transform="translate(667 6018)" fill="none" stroke="#000" stroke-width="1"><circle cx="3.242" cy="3.242" r="3.242" stroke="none"></circle><circle cx="3.242" cy="3.242" r="2.742" fill="none"></circle></g><g id="Ellipse_26" data-name="Ellipse 26" transform="translate(667 6049.032)" fill="none" stroke="#000" stroke-width="1"><circle cx="3.242" cy="3.242" r="3.242" stroke="none"></circle><circle cx="3.242" cy="3.242" r="2.742" fill="none"></circle></g><g id="Ellipse_24" data-name="Ellipse 24" transform="translate(697.106 6018)" fill="none" stroke="#000" stroke-width="1"><circle cx="3.242" cy="3.242" r="3.242" stroke="none"></circle><circle cx="3.242" cy="3.242" r="2.742" fill="none"></circle></g><g id="Ellipse_25" data-name="Ellipse 25" transform="translate(697.106 6049.032)" fill="none" stroke="#000" stroke-width="1"><circle cx="3.242" cy="3.242" r="3.242" stroke="none"></circle><circle cx="3.242" cy="3.242" r="2.742" fill="none"></circle></g><line id="Line_2" data-name="Line 2" x2="1.853" y2="1.853" transform="translate(672.095 6023.095)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line><line id="Line_5" data-name="Line 5" y1="1.853" x2="1.853" transform="translate(672.095 6048.569)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line><line id="Line_3" data-name="Line 3" x1="1.853" y2="1.853" transform="translate(696.642 6023.095)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line><line id="Line_4" data-name="Line 4" x1="1.853" y1="1.853" transform="translate(696.642 6048.569)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line></g></svg> </span>
+<span class="elementor-button-text">DISTRIBUTION</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a54cf07" data-id="a54cf07" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d7a9a69 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="d7a9a69" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="38.515" viewBox="0 0 22 38.515"><g id="Group_4" data-name="Group 4" transform="translate(-1369.1 -6067)"><g id="Icon_feather-smartphone" data-name="Icon feather-smartphone" transform="translate(1369.6 6067.5)"><path id="Path_24" data-name="Path 24" d="M10.5,3h15c1.657,0,3,1.68,3,3.752V36.764c0,2.072-1.343,3.752-3,3.752h-15c-1.657,0-3-1.68-3-3.752V6.752C7.5,4.68,8.843,3,10.5,3Z" transform="translate(-7.5 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><path id="Path_25" data-name="Path 25" d="M18,27h2.715" transform="translate(-8.5 7.515)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path></g><g id="Icon_feather-smartphone-2" data-name="Icon feather-smartphone" transform="translate(1371.737 6070.553)"><path id="Path_24-2" data-name="Path 24" d="M9.89,3H21.837a2.682,2.682,0,0,1,2.39,2.9V29.1a2.682,2.682,0,0,1-2.39,2.9H9.89A2.682,2.682,0,0,1,7.5,29.1V5.9A2.682,2.682,0,0,1,9.89,3Z" transform="translate(-7.5 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path></g></g></svg> </span>
+<span class="elementor-button-text">RETAIL</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9136002" data-id="9136002" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-bf5b4cd elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="bf5b4cd" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="38" viewBox="0 0 40 38"><g id="Group_5" data-name="Group 5" transform="translate(-1350 -6063.758)"><g id="Polygon_5" data-name="Polygon 5" transform="translate(1350 6063.758)" fill="none"><path d="M26.18,0l2.764,6.7,7.236.554L34.472,14.3,40,19l-5.528,4.7,1.708,7.046-7.236.554L26.18,38,20,34.2,13.82,38l-2.764-6.7L3.82,30.743,5.528,23.7,0,19l5.528-4.7L3.82,7.257,11.056,6.7,13.82,0,20,3.8Z" stroke="none"></path><path d="M 14.29643249511719 1.467033386230469 L 11.74566078186035 7.653009414672852 L 5.068595886230469 8.164592742919922 L 6.644878387451172 14.66605949401855 L 1.544361114501953 19 L 6.644870758056641 23.33393859863281 L 5.068588256835938 29.83539772033691 L 11.74564933776855 30.34699058532715 L 14.29641342163086 36.53296661376953 L 20 33.02610015869141 L 25.70358657836914 36.53296661376953 L 28.25434875488281 30.34699058532715 L 34.93141174316406 29.83539772033691 L 33.35512924194336 23.33393859863281 L 38.45564270019531 19 L 33.35512924194336 14.66605949401855 L 34.93141174316406 8.164602279663086 L 28.25434875488281 7.653020858764648 L 25.70358657836914 1.467037200927734 L 20.00001907348633 4.973899841308594 L 14.29643249511719 1.467033386230469 M 13.81967926025391 0 L 20.00001907348633 3.799999237060547 L 26.18033981323242 0 L 28.94427108764648 6.702949523925781 L 36.18033981323242 7.257360458374023 L 34.47214126586914 14.30294036865234 L 40 19 L 34.47214126586914 23.69705963134766 L 36.18033981323242 30.74263954162598 L 28.94427108764648 31.29706001281738 L 26.18033981323242 38 L 20 34.20000076293945 L 13.81966018676758 38 L 11.05573081970215 31.29706001281738 L 3.819660186767578 30.74263954162598 L 5.527858734130859 23.69705963134766 L 0 19 L 5.527870178222656 14.30294036865234 L 3.819671630859375 7.257350921630859 L 11.05574035644531 6.702939987182617 L 13.81967926025391 0 Z" stroke="none" fill="#000"></path></g><path id="Icon_awesome-check" data-name="Icon awesome-check" d="M5.363,16.121.231,10.989a.79.79,0,0,1,0-1.117L1.348,8.756a.789.789,0,0,1,1.117,0l3.457,3.457,7.4-7.4a.79.79,0,0,1,1.117,0l1.117,1.117a.79.79,0,0,1,0,1.117l-9.08,9.08A.79.79,0,0,1,5.363,16.121Z" transform="translate(1361.854 6072.294)" fill="none" stroke="#000" stroke-width="1"></path></g></svg> </span>
+<span class="elementor-button-text">STARTUPS</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-cfc2abe serve_sec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cfc2abe" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1c2d9d3" data-id="1c2d9d3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6f32df7 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="6f32df7" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="35.358" height="38.547" viewBox="0 0 35.358 38.547"><path id="iconmonstr-construction-3" d="M2.84,17.192H1v-3.45c.731,0,1.209-.74,1.474-1.557.917-2.816,2.483-7.048,6.334-9.7V7.821a1.562,1.562,0,1,0,3.123,0V.892a16.955,16.955,0,0,1,4.685-.914V4.7a1.562,1.562,0,0,0,3.123,0V.012a16.94,16.94,0,0,1,4.685,1.032V7.821a1.562,1.562,0,1,0,3.123,0V2.716c3.734,2.655,5.408,6.722,6.336,9.469.273.812.742,1.557,1.473,1.557v3.45H33.517c.9.717,1.841,2.124,1.841,4.89a7.78,7.78,0,0,1-4.493,7.076c-3.362,5.38-7.851,8.337-12.686,8.337S8.856,34.538,5.492,29.158A7.779,7.779,0,0,1,1,22.081c0-2.766.942-4.173,1.84-4.89ZM21.615,28.841H14.743c.006.019.978,2.717,3.436,2.717C20.731,31.558,21.609,28.859,21.615,28.841Zm7.054-11.649H7.687l-.02.8a1.432,1.432,0,0,1-2.012,1.318,1.079,1.079,0,0,0-.964.077c-1.432.939-1.279,6.035,2.225,7.229,1.431.489,3.692,4.846,6.138.622.846-1.459,9.4-1.459,10.247,0,2.446,4.225,4.707-.133,6.138-.622,3.5-1.195,3.658-6.291,2.225-7.229a1.09,1.09,0,0,0-.962-.077A1.433,1.433,0,0,1,28.69,18l-.02-.8ZM13.527,18.747a2,2,0,0,0-1.79,2.163,2,2,0,0,0,1.79,2.163,2,2,0,0,0,1.79-2.163A2,2,0,0,0,13.527,18.747ZM24.621,20.91a2,2,0,0,1-1.79,2.163,2,2,0,0,1-1.79-2.163,2,2,0,0,1,1.79-2.163A2,2,0,0,1,24.621,20.91Z" transform="translate(-0.5 0.553)" fill="none" stroke="#000" stroke-width="1" fill-rule="evenodd"></path></svg> </span>
+<span class="elementor-button-text">AUTOMATION &amp; CONTROLS</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-15ce6ec" data-id="15ce6ec" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b2fde79 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="b2fde79" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="38.516" height="38.516" viewBox="0 0 38.516 38.516"><path id="iconmonstr-construction-6" d="M17.195,37.516H7.816V10.942h9.379Zm20.321,0H20.321V28.137h6.253V21.884H37.516ZM14.069,31.263l-3.126,1.563V34.39l3.126-1.563ZM26.574,34.39V31.263H23.448V34.39Zm7.816-3.126H29.7V34.39h4.69Zm-20.321-4.69-3.126,1.563V29.7l3.126-1.563ZM34.39,25.011H29.7v3.126h4.69ZM14.069,21.884l-3.126,1.563v1.563l3.126-1.563Zm0-4.69-3.126,1.563v1.563l3.126-1.563ZM17.195,3.126H32.827l4.69,4.69V9.379h-4.69v4.69h4.69v4.69H26.574v-4.69h4.69V9.379H6.253v4.69H0V3.126H7.816V0h9.379Zm-3.126,9.379-3.126,1.563v1.563l3.126-1.563Z" transform="translate(0.5 0.5)" fill="none" stroke="#000" stroke-width="1" fill-rule="evenodd"></path></svg> </span>
+<span class="elementor-button-text">LIGHTING <br>&amp; LED</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-935aa26" data-id="935aa26" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9afa517 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="9afa517" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="42.398" height="38.258" viewBox="0 0 42.398 38.258"><g id="Group_1" data-name="Group 1" transform="translate(-1086.5 -6248.5)"><g id="Icon_feather-monitor" data-name="Icon feather-monitor" transform="translate(1087 6249)"><path id="Path_14" data-name="Path 14" d="M7.14,4.5H40.258A4.14,4.14,0,0,1,44.4,8.64v20.7a4.14,4.14,0,0,1-4.14,4.14H7.14A4.14,4.14,0,0,1,3,29.339V8.64A4.14,4.14,0,0,1,7.14,4.5Z" transform="translate(-3 -4.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><path id="Path_15" data-name="Path 15" d="M12,31.5H28.559" transform="translate(0.419 5.758)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><path id="Path_16" data-name="Path 16" d="M18,25.5v8.28" transform="translate(2.699 3.479)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path></g><g id="Icon_ionic-ios-stats" data-name="Icon ionic-ios-stats" transform="translate(1097.614 6252.785)"><path id="Path_17" data-name="Path 17" d="M12.814,25.553h2.632a.44.44,0,0,0,.439-.439V4.939a.44.44,0,0,0-.439-.439H12.814a.44.44,0,0,0-.439.439V25.115A.44.44,0,0,0,12.814,25.553Z" transform="translate(-7.112 -4.5)" fill="none" stroke="#000" stroke-width="1"></path><path id="Path_18" data-name="Path 18" d="M6.064,29.022H8.7a.44.44,0,0,0,.439-.439v-7.9A.44.44,0,0,0,8.7,20.25H6.064a.44.44,0,0,0-.439.439v7.9A.44.44,0,0,0,6.064,29.022Z" transform="translate(-5.625 -7.969)" fill="none" stroke="#000" stroke-width="1"></path><path id="Path_19" data-name="Path 19" d="M19.569,28.031H22.19a.442.442,0,0,0,.444-.444V16.194a.442.442,0,0,0-.444-.444H19.569a.442.442,0,0,0-.444.444V27.587A.442.442,0,0,0,19.569,28.031Z" transform="translate(-8.598 -6.978)" fill="none" stroke="#000" stroke-width="1"></path><path id="Path_20" data-name="Path 20" d="M25.875,9.444V26.1a.442.442,0,0,0,.444.444H28.94a.442.442,0,0,0,.444-.444V9.444A.442.442,0,0,0,28.94,9H26.319A.442.442,0,0,0,25.875,9.444Z" transform="translate(-10.085 -5.491)" fill="none" stroke="#000" stroke-width="1"></path></g></g></svg> </span>
+<span class="elementor-button-text">MACHINERY &amp; EQUIPMENT</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-83b5bb1" data-id="83b5bb1" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-29d3206 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="29d3206" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="36.747" height="44.374" viewBox="0 0 36.747 44.374"><g id="Group_2" data-name="Group 2" transform="translate(-1367.626 -6242.626)"><g id="Ellipse_20" data-name="Ellipse 20" transform="translate(1386.642 6242.626) rotate(47)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1" stroke-dasharray="20"><circle cx="13" cy="13" r="13" stroke="none"></circle><circle cx="13" cy="13" r="12.5" fill="none"></circle></g><g id="Ellipse_21" data-name="Ellipse 21" transform="translate(1385.192 6249.451) rotate(41)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1" stroke-dasharray="13"><circle cx="8.186" cy="8.186" r="8.186" stroke="none"></circle><circle cx="8.186" cy="8.186" r="7.686" fill="none"></circle></g><g id="Ellipse_22" data-name="Ellipse 22" transform="translate(1385.632 6255.74) rotate(41)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"><circle cx="3.728" cy="3.728" r="3.728" stroke="none"></circle><circle cx="3.728" cy="3.728" r="3.228" fill="none"></circle></g><g id="Path_21" data-name="Path 21" transform="translate(1383.928 6279.973) rotate(41)" fill="none" stroke-linecap="round"><path d="M-.125,2.067A.728.728,0,0,1,.6,2.795a.728.728,0,0,1-.728.728.728.728,0,0,1-.728-.728A.728.728,0,0,1-.125,2.067Z" stroke="none"></path><path d="M -0.1254507303237915 2.066827297210693 C 0.2765592932701111 2.066827297210693 0.6024592518806458 2.392727375030518 0.6024592518806458 2.794737339019775 C 0.6024592518806458 3.196747303009033 0.2765592932701111 3.522647380828857 -0.1254507303237915 3.522647380828857 C -0.5274606943130493 3.522647380828857 -0.8533607125282288 3.196747303009033 -0.8533607125282288 2.794737339019775 C -0.8533607125282288 2.392727375030518 -0.5274606943130493 2.066827297210693 -0.1254507303237915 2.066827297210693 Z" stroke="none" fill="#000"></path></g><line id="Line_1" data-name="Line 1" y2="13" transform="translate(1386 6264.5)" fill="none" stroke="#000" stroke-width="1"></line><g id="Rectangle_47" data-name="Rectangle 47" transform="translate(1377 6277)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><rect width="18" height="10" stroke="none"></rect><rect x="0.5" y="0.5" width="17" height="9" fill="none"></rect></g><g id="Path_22" data-name="Path 22" transform="translate(1383.928 6279.973) rotate(41)" fill="none" stroke-linecap="round"><path d="M2.893-.557a.728.728,0,1,1-.728.728A.728.728,0,0,1,2.893-.557Z" stroke="none"></path><path d="M 2.893387794494629 -0.5574085712432861 C 3.295397758483887 -0.5574085712432861 3.621297836303711 -0.2315086126327515 3.621297836303711 0.1705014109611511 C 3.621297836303711 0.5725114345550537 3.295397758483887 0.8984113931655884 2.893387794494629 0.8984113931655884 C 2.491377830505371 0.8984113931655884 2.165477752685547 0.5725114345550537 2.165477752685547 0.1705014109611511 C 2.165477752685547 -0.2315086126327515 2.491377830505371 -0.5574085712432861 2.893387794494629 -0.5574085712432861 Z" stroke="none" fill="#000"></path></g><g id="Path_23" data-name="Path 23" transform="translate(1383.928 6279.973) rotate(41)" fill="none" stroke-linecap="round"><path d="M5.912-3.182a.728.728,0,0,1,.728.728.728.728,0,0,1-.728.728.728.728,0,0,1-.728-.728A.728.728,0,0,1,5.912-3.182Z" stroke="none"></path><path d="M 5.912226676940918 -3.181644678115845 C 6.314236640930176 -3.181644678115845 6.64013671875 -2.855744600296021 6.64013671875 -2.453734636306763 C 6.64013671875 -2.051724672317505 6.314236640930176 -1.725824594497681 5.912226676940918 -1.725824594497681 C 5.51021671295166 -1.725824594497681 5.184316635131836 -2.051724672317505 5.184316635131836 -2.453734636306763 C 5.184316635131836 -2.855744600296021 5.51021671295166 -3.181644678115845 5.912226676940918 -3.181644678115845 Z" stroke="none" fill="#000"></path></g></g></svg> </span>
+<span class="elementor-button-text">MEDICAL <BR> DEVICES</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-305fabe serve_sec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="305fabe" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bd14a5a" data-id="bd14a5a" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-3b38376 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="3b38376" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="36.535" height="38.516" viewBox="0 0 36.535 38.516"><g id="Group_252" data-name="Group 252" transform="translate(-175.977 -94.645)"><path id="Icon_metro-power" data-name="Icon metro-power" d="M13.253,1.928,2.571,16.171H13.253L6.131,30.414l24.925-17.8H16.814L27.5,1.928Z" transform="translate(178.913 93.217)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><g id="Icon_feather-power" data-name="Icon feather-power" transform="translate(171.941 92.421)"><path id="Path_175" data-name="Path 175" d="M39.848,20.131a17.743,17.743,0,1,1-35.188.224" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path></g></g></svg> </span>
+<span class="elementor-button-text">POWER</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9691022" data-id="9691022" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-eec5808 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="eec5808" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="32.307" height="38.016" viewBox="0 0 32.307 38.016"><g id="Group_253" data-name="Group 253" transform="translate(-126.693 -95.146)"><g id="Icon_feather-shield-off" data-name="Icon feather-shield-off" transform="translate(121.193 94.527)"><path id="Path_176" data-name="Path 176" d="M32.115,23.854a11.991,11.991,0,0,0,.539-3.476V8.213L18.752,3,13.26,5.051" transform="translate(1.151 0.378)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><path id="Path_177" data-name="Path 177" d="M7.269,7.095,6,7.564V19.729C6,30.156,19.9,37.107,19.9,37.107A35.261,35.261,0,0,0,29.669,29.5" transform="translate(0 1.027)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><path id="Path_178" data-name="Path 178" d="M29.738,26.56" transform="translate(3.764 4.113)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><g id="Ellipse_73" data-name="Ellipse 73" transform="translate(6.526 0.618)" fill="none" stroke="#000" stroke-width="1"><circle cx="2.896" cy="2.896" r="2.896" stroke="none"></circle><circle cx="2.896" cy="2.896" r="2.396" fill="none"></circle></g><g id="Ellipse_75" data-name="Ellipse 75" transform="translate(15.795 13.362)" fill="none" stroke="#000" stroke-width="1"><circle cx="5.213" cy="5.213" r="5.213" stroke="none"></circle><circle cx="5.213" cy="5.213" r="4.713" fill="none"></circle></g><g id="Ellipse_76" data-name="Ellipse 76" transform="translate(15.795 28.423)" fill="none" stroke="#000" stroke-width="1"><circle cx="2.317" cy="2.317" r="2.317" stroke="none"></circle><circle cx="2.317" cy="2.317" r="1.817" fill="none"></circle></g><g id="Ellipse_77" data-name="Ellipse 77" transform="translate(27.38 9.887)" fill="none" stroke="#000" stroke-width="1"><circle cx="2.317" cy="2.317" r="2.317" stroke="none"></circle><circle cx="2.317" cy="2.317" r="1.817" fill="none"></circle></g><g id="Ellipse_74" data-name="Ellipse 74" transform="translate(32.015 26.106)" fill="none" stroke="#000" stroke-width="1"><circle cx="2.896" cy="2.896" r="2.896" stroke="none"></circle><circle cx="2.896" cy="2.896" r="2.396" fill="none"></circle></g><line id="Line_216" data-name="Line 216" x2="6.951" y2="9.268" transform="translate(10.581 5.832)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line><line id="Line_218" data-name="Line 218" x1="1.159" y2="5.793" transform="translate(18.691 23.21)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line><line id="Line_219" data-name="Line 219" x1="3.476" y2="2.317" transform="translate(25.063 13.362)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line><line id="Line_217" data-name="Line 217" x2="8.11" y2="5.793" transform="translate(24.484 22.051)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"></line></g></g></svg> </span>
+<span class="elementor-button-text">SMART &amp;<br>SAFETY</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-81d793f" data-id="81d793f" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-96f12ff elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="96f12ff" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="42.104" height="38.854" viewBox="0 0 42.104 38.854"><g id="Group_251" data-name="Group 251" transform="translate(-233.512 -94.646)"><path id="Icon_awesome-traffic-light" data-name="Icon awesome-traffic-light" d="M19.016,9.508H15.847V7.632a4.74,4.74,0,0,0,3.169-4.463H15.847V1.585A1.585,1.585,0,0,0,14.262,0H4.754A1.585,1.585,0,0,0,3.169,1.585V3.169H0A4.74,4.74,0,0,0,3.169,7.632V9.508H0a4.74,4.74,0,0,0,3.169,4.463v1.876H0a4.738,4.738,0,0,0,3.317,4.509,6.333,6.333,0,0,0,12.381,0,4.738,4.738,0,0,0,3.317-4.509H15.847V13.971A4.74,4.74,0,0,0,19.016,9.508ZM9.508,20.6a2.377,2.377,0,1,1,2.377-2.377A2.377,2.377,0,0,1,9.508,20.6Zm0-6.339a2.377,2.377,0,1,1,2.377-2.377A2.377,2.377,0,0,1,9.508,14.262Zm0-6.339a2.377,2.377,0,1,1,2.377-2.377A2.377,2.377,0,0,1,9.508,7.923Z" transform="translate(256.1 95.146)" fill="none" stroke="#000" stroke-width="1"></path><path id="Subtraction_1" data-name="Subtraction 1" d="M9.832,0A4.982,4.982,0,0,0,4.867,4.988H0v9.974H8.076L4.1,19.948H0v3.325H4.1a3.284,3.284,0,0,0,2.585-1.249l5.626-7.063h.827a4.982,4.982,0,0,0,4.965-4.988V5.819a.831.831,0,0,0-.829-.831H14.8A4.982,4.982,0,0,0,9.832,0Z" transform="translate(252.118 132.662) rotate(180)" fill="none" stroke="#000" stroke-width="1"></path><path id="Path_179" data-name="Path 179" d="M0,.185A6.717,6.717,0,0,0,2.093.6,5.942,5.942,0,0,0,4.1.185V13H0Z" transform="translate(263.448 120)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path></g></svg> </span>
+<span class="elementor-button-text">TRANSPORTATION <BR>& TRAFFIC</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c2e899a" data-id="c2e899a" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-e01e736 elementor-align-center serve_link elementor-widget elementor-widget-button" data-id="e01e736" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-size-md" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<svg xmlns="http://www.w3.org/2000/svg" width="44.193" height="40.19" viewBox="0 0 44.193 40.19"><g id="Group_250" data-name="Group 250" transform="translate(-284.542 -92.971)"><path id="Icon_metro-power" data-name="Icon metro-power" d="M10.608,1.928,2.571,12.644h8.037L5.25,23.36,24,9.965H13.287l8.037-8.037Z" transform="translate(304.233 91.543)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path><g id="Group_249" data-name="Group 249" transform="translate(18.719 513.123) rotate(-90)"><path id="Icon_ionic-ios-speedometer" data-name="Icon ionic-ios-speedometer" d="M16.469,7.742a.936.936,0,1,1,1.873,0V10.15a.936.936,0,1,1-1.873,0ZM7.907,20.584H5.5a.936.936,0,0,1,0-1.873H7.907a.936.936,0,1,1,0,1.873Zm3.445-6.99h0a.945.945,0,0,1-1.324,0L8.322,11.9a.945.945,0,0,1,0-1.324h0a.945.945,0,0,1,1.324,0l1.706,1.706A.937.937,0,0,1,11.352,13.595ZM21.094,16.9l-3.177,5.05a2.073,2.073,0,0,1-.468.468,2.014,2.014,0,1,1-2.341-3.278l5.05-3.177a.684.684,0,0,1,.783,0A.673.673,0,0,1,21.094,16.9Zm3.689-3.308a.945.945,0,0,1-1.324,0h0a.945.945,0,0,1,0-1.324l1.706-1.706a.945.945,0,0,1,1.324,0h0a.945.945,0,0,1,0,1.324Z" transform="translate(380.968 265.07)" fill="none" stroke="#000" stroke-width="1"></path></g><path id="Path_180" data-name="Path 180" d="M17.761,0A17.761,17.761,0,1,1,0,17.761" transform="translate(320.565 97.139) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path></g></svg> </span>
+<span class="elementor-button-text">ENERGY &amp;<br> SMART METERS</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-398b08a elementor-section-content-middle get_touch_sec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="398b08a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-ffad061" data-id="ffad061" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-062538e get_title elementor-widget elementor-widget-heading" data-id="062538e" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">We Make Digital Successful.<br>
+Can We Help You With IoT?</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5b410d3" data-id="5b410d3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-619e13c elementor-widget elementor-widget-spacer" data-id="619e13c" data-element_type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-63a2109 btn_get elementor-widget elementor-widget-button" data-id="63a2109" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://zapario.com/get-free-consultation/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Get Free Consultation</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-276adcc elementor-widget elementor-widget-spacer" data-id="276adcc" data-element_type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+
+</div> 
+
+
+
