@@ -1,4 +1,5 @@
 original_path,output_path,articleurl,status
+search.html,search.html,no,merged
 sitemap_content.html,sitemap_content.html,yes,merged
 chhath-puja\chhath-puja-info.html,chhath-puja\index.html,yes,merged
 chinese-new-year\chinese-new-year-2026-main.html,chinese-new-year\chinese-new-year-horse-2026.html,yes,merged
@@ -77,17 +78,18 @@ pongal\pedda-festival.html,pongal\pongal-sweets.html,yes,merged
 pongal\pongal-cards.html,pongal\index.html,yes,merged
 pongal\pongal.html,pongal\pongal-guide.html,yes,merged
 pongal\receipes.html,pongal\food-guide.html,yes,merged
+search\search-index.html,search\index.html,yes,merged
 uttarayan\uttarayan-info.html,uttarayan\uttarayan-info.html,yes,merged
-valentineday\2026-valentine-gift-ideas.html,valentineday\2026-valentine-gift-ideas.html,yes,merged
-valentineday\diy-valentineday-gift-guide.html,valentineday\diy-valentineday-gift-guide.html,yes,merged
-valentineday\experience-vs-physical-gifts.html,valentineday\experience-vs-physical-gifts.html,yes,merged
-valentineday\first-valentine-day.html,valentineday\first-valentine-day.html,yes,merged
-valentineday\ldr-valentineday-guide.html,valentineday\ldr-valentineday-guide.html,yes,merged
-valentineday\ldr-valentineday-pink.html,valentineday\ldr-valentineday-pink.html,yes,merged
-valentineday\valentine-day-for-singles.html,valentineday\valentine-day-for-singles.html,yes,merged
-valentineday\valentine-day-gift-guide.html,valentineday\valentine-day-gift-guide.html,yes,merged
-valentineday\valentine-day-hub.html,valentineday\valentine-day-hub.html,yes,merged
-valentineday\valentine-day-wishes.html,valentineday\valentine-day-wishes.html,yes,merged
-valentineday\valentineday-ideas.html,valentineday\valentineday-ideas.html,yes,merged
+valentineday\2026-valentine-gift-ideas.html,valentineday\2026-valentine-gift.html,yes,merged
+valentineday\diy-valentineday-gift-guide.html,valentineday\do-it-yourself-gift.html,yes,merged
+valentineday\experience-vs-physical-gifts.html,valentineday\experience-vs-physical-object.html,yes,merged
+valentineday\first-valentine-day.html,valentineday\how-to-spend-first-valentine-day.html,yes,merged
+valentineday\ldr-valentineday-guide.html,valentineday\how-to-celebrate-valentineday-in-long-distance-relationship.html,yes,merged
+valentineday\ldr-valentineday-pink.html,valentineday\long-distance-relationship-and-valentineday.html,yes,merged
+valentineday\valentine-day-for-singles.html,valentineday\how-singles-can-enjoy-feb14.html,yes,merged
+valentineday\valentine-day-gift-guide.html,valentineday\gift-selection.html,yes,merged
+valentineday\valentine-day-hub.html,valentineday\valentine-day-guide.html,yes,merged
+valentineday\valentine-day-wishes.html,valentineday\valentine-day-special-wishes.html,yes,merged
+valentineday\valentineday-ideas.html,valentineday\ideas.html,yes,merged
 valentineday\valentineday-married-couple.html,valentineday\index.html,yes,merged
 valentineday\valentineday-research.html,valentineday\index-2.html,yes,"collision, renamed to index-2.html"
