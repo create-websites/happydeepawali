@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search - HappyDeepawali.org</title>
+    <meta name="description" content="Search for Diwali wishes, images, rangoli designs, and greetings on HappyDeepawali.org.">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Google Custom Search Engine Script -->
+    <!-- Moving script to head for better loading reliability -->
+    <script async src="https://cse.google.com/cse.js?cx=d7573d50eb6fb46e2"></script>
+
+    <style>
+        body {
+            font-family: 'Lato', sans-serif;
+        }
+        h1, h2, h3, .brand-font {
+            font-family: 'Cinzel', serif;
+        }
+        
+        /* --- GCSE CUSTOM STYLES --- */
+        /* Container styling */
+        .gsc-control-cse {
+            background-color: transparent !important;
+            border: none !important;
+            padding: 10px !important; /* restored padding */
+        }
+        
+        /* Input box styling */
+        .gsc-input-box {
+            border: 2px solid #fbbf24 !important; /* yellow-400 */
+            border-radius: 4px !important;
+            background-color: #ffffff !important;
+            height: 44px !important;
+        }
+        
+        /* The actual text input inside */
+        table.gsc-input, .gsc-input-box-inner {
+            margin-bottom: 0 !important;
+        }
+        
+        /* Search button styling */
+        .gsc-search-button-v2 {
+            background-color: #c2410c !important; /* orange-700 */
+            border-color: #c2410c !important;
+            border-radius: 4px !important;
+            padding: 10px 20px !important;
+            height: 44px !important;
+            cursor: pointer !important;
+        } 
+        .gsc-search-button-v2:hover {
+            background-color: #9a3412 !important; /* orange-800 */
+        }
+        
+        /* Hide the branding if preferred/allowed, or style it */
+        .gcsc-branding {
+            margin-top: 10px !important;
+        }
+
+        /* Pattern Overlay */
+        .bg-pattern {
+            background-color: #fff7ed;
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23fbbf24' fill-opacity='0.2'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+    </style>
+</head>
+<body class="bg-pattern flex flex-col min-h-screen text-gray-800">
+
+    <!-- Header / Navigation -->
+    <header class="bg-gradient-to-r from-red-800 via-orange-700 to-red-800 text-white shadow-lg border-b-4 border-yellow-500">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <!-- Logo Area -->
+                <a href="/" class="flex items-center space-x-3 mb-4 md:mb-0 hover:opacity-90 transition">
+                    <!-- Simple Diya SVG Icon -->
+                    <svg class="w-10 h-10 text-yellow-400" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2C12 2 16 7 16 11C16 13.2091 14.2091 15 12 15C9.79086 15 8 13.2091 8 11C8 7 12 2 12 2Z" class="text-orange-300"/>
+                        <path d="M4 14C4 14 2 16 2 18C2 20.2091 5 22 12 22C19 22 22 20.2091 22 18C22 16 20 14 20 14H4Z" />
+                        <circle cx="12" cy="11" r="2" class="text-yellow-200 animate-pulse"/>
+                    </svg>
+                    <span class="text-2xl md:text-3xl font-bold brand-font tracking-wide text-yellow-50">Happy Deepawali</span>
+                </a>
+
+                <!-- Nav Links -->
+                <nav>
+                    <ul class="flex flex-wrap justify-center space-x-6 text-sm md:text-base font-semibold">
+                        <li><a href="/" class="hover:text-yellow-300 transition duration-300">Home</a></li>
+                        <li><a href="/wishes" class="hover:text-yellow-300 transition duration-300">Wishes</a></li>
+                        <li><a href="/images" class="hover:text-yellow-300 transition duration-300">Images</a></li>
+                        <li><a href="/rangoli" class="hover:text-yellow-300 transition duration-300">Rangoli</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow container mx-auto px-4 py-12">
+        
+        <!-- Search Section -->
+        <div class="max-w-4xl mx-auto">
+            <div class="text-center mb-10">
+                <h1 class="text-4xl md:text-5xl font-bold text-red-800 mb-4 drop-shadow-sm">Search Our Collection</h1>
+                <p class="text-lg text-orange-800">Find the perfect Diwali wishes, quotes, greeting cards, and rangoli designs.</p>
+            </div>
+
+            <!-- Search Box Container -->
+            <div class="bg-white p-6 md:p-8 rounded-2xl shadow-xl border border-orange-200 relative overflow-hidden min-h-[400px]">
+                <!-- Decorative corner accents -->
+                <div class="absolute top-0 left-0 w-16 h-16 border-t-4 border-l-4 border-yellow-500 rounded-tl-2xl"></div>
+                <div class="absolute top-0 right-0 w-16 h-16 border-t-4 border-r-4 border-yellow-500 rounded-tr-2xl"></div>
+                <div class="absolute bottom-0 left-0 w-16 h-16 border-b-4 border-l-4 border-yellow-500 rounded-bl-2xl"></div>
+                <div class="absolute bottom-0 right-0 w-16 h-16 border-b-4 border-r-4 border-yellow-500 rounded-br-2xl"></div>
+
+                <!-- Google Custom Search Engine Element -->
+                <!-- The input box should appear here automatically when the script loads -->
+                <div class="gcse-search"></div>
+                
+                <!-- Fallback Text (Only shows if JS fails to load) -->
+                <noscript>
+                    <div class="text-center text-red-600 p-4">
+                        Please enable JavaScript to use the search engine.
+                    </div>
+                </noscript>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-gray-300 py-10 border-t-4 border-red-700">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="mb-6 md:mb-0 text-center md:text-left">
+                    <h3 class="text-2xl font-bold text-yellow-500 brand-font mb-2">Happy Deepawali</h3>
+                    <p class="text-sm">Spreading the light of joy and prosperity.</p>
+                </div>
+                
+                <div class="flex space-x-6 text-sm">
+                    <a href="/about" class="hover:text-white transition">About Us</a>
+                    <a href="/contact" class="hover:text-white transition">Contact</a>
+                    <a href="/privacy" class="hover:text-white transition">Privacy Policy</a>
+                    <a href="/sitemap" class="hover:text-white transition">Sitemap</a>
+                </div>
+            </div>
+            <div class="mt-8 text-center text-xs text-gray-500">
+                &copy; <script>document.write(new Date().getFullYear())</script> HappyDeepawali.org. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
