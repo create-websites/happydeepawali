@@ -1,0 +1,66 @@
+
+<footer class="bg-gray-800 text-gray-300">
+  <div class="container mx-auto px-6 py-12 lg:px-8">
+
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+      
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Happy Deppawali</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/" class="hover:text-white hover:underline transition-colors duration-200">/ (2026-01-08)</a></li>
+          <li><a href="https://www.happydeepawali.org/5-days-of-diwali.html" class="hover:text-white hover:underline transition-colors duration-200">5-days-of-diwali.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Diwali-16-current.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali-16-current.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/ (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Brother-Sister-festival.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Brother-Sister-festival.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Karwa Chauth</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-rajasthani.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-rajasthani.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-tamil.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-tamil.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-telugu.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-telugu.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-karwa-chauth.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-karwa-chauth.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-canada.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-canada.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-india.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-india.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-culinary-guide-info.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Culinary Guide Info</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-culinary-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Culinary Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-cultural-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Cultural Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-index.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Index</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-main-photos.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Main Photos</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-main-search.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Main Search</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-main.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Main</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-modern-perspective.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Modern Perspective</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-moonrise-timing-2024-india.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Moonrise Timing 2024 India</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-moonrise-timing-2024-usa.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Moonrise Timing 2024 Usa</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-moonrise-timing-canada-2025.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Moonrise Timing Canada 2025</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-moonrise-timing-india-2025.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Moonrise Timing India 2025</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-moonrise-timing-uk-2025.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Moonrise Timing Uk 2025</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-moonrise-timings-middle-east-2025.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Moonrise Timings Middle East 2025</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-photo-moonrise-timing-india-2025.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Photo Moonrise Timing India 2025</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-puja-thali.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Puja Thali</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-timings-usa-2025.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Timings Usa 2025</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwa-chauth-visual-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth Visual Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/karwah-chauth-hindi.html" class="hover:text-white hover:underline transition-colors duration-200">Karwah Chauth Hindi</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/regional-variations-of-karwa-chauth.html" class="hover:text-white hover:underline transition-colors duration-200">Regional Variations Of Karwa Chauth</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
+      <p class="text-sm text-gray-400">&copy; 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+      
+    </div>
+
+  </div>
+</footer>

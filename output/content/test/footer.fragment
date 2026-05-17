@@ -1,0 +1,48 @@
+
+<footer class="bg-gray-800 text-gray-300">
+  <div class="container mx-auto px-6 py-12 lg:px-8">
+
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+      
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Happy Deppawali</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/" class="hover:text-white hover:underline transition-colors duration-200">/ (2026-01-08)</a></li>
+          <li><a href="https://www.happydeepawali.org/5-days-of-diwali.html" class="hover:text-white hover:underline transition-colors duration-200">5-days-of-diwali.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Diwali-16-current.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali-16-current.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/ (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Brother-Sister-festival.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Brother-Sister-festival.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Karwa Chauth</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-rajasthani.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-rajasthani.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-tamil.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-tamil.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-telugu.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-telugu.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-karwa-chauth.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-karwa-chauth.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-canada.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-canada.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-india.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-india.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/test/test.html" class="hover:text-white hover:underline transition-colors duration-200">Test</a></li>
+          <li><a href="https://www.happydeepawali.org/test/test2.html" class="hover:text-white hover:underline transition-colors duration-200">Test2</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
+      <p class="text-sm text-gray-400">&copy; 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+      
+    </div>
+
+  </div>
+</footer>

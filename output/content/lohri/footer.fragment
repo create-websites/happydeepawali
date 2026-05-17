@@ -1,0 +1,67 @@
+
+<footer class="bg-gray-800 text-gray-300">
+  <div class="container mx-auto px-6 py-12 lg:px-8">
+
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+      
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Happy Deppawali</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/" class="hover:text-white hover:underline transition-colors duration-200">/ (2026-01-08)</a></li>
+          <li><a href="https://www.happydeepawali.org/5-days-of-diwali.html" class="hover:text-white hover:underline transition-colors duration-200">5-days-of-diwali.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Diwali-16-current.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali-16-current.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/ (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Brother-Sister-festival.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Brother-Sister-festival.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Karwa Chauth</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-rajasthani.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-rajasthani.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-tamil.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-tamil.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-telugu.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-telugu.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-karwa-chauth.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-karwa-chauth.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-canada.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-canada.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-india.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-india.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/lohri/dulla-bhatti.html" class="hover:text-white hover:underline transition-colors duration-200">Dulla Bhatti</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/first-lohri.html" class="hover:text-white hover:underline transition-colors duration-200">First Lohri</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/kids-lohri.html" class="hover:text-white hover:underline transition-colors duration-200">Kids Lohri</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-across-generations.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Across Generations</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-cards.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Cards</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-celebrating-agriculture-nature-rhythm.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Celebrating Agriculture Nature Rhythm</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-festival.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Festival</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-food-specialties.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Food Specialties</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-history-bonfire-makar-sankranti.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri History Bonfire Makar Sankranti</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-menu.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Menu</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-music-dance.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Music Dance</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-rituals-and-songs.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Rituals And Songs</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-rituals.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Rituals</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-songs-meaning.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Songs Meaning</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-special-food.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Special Food</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-traditional-sweets-recipes.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Traditional Sweets Recipes</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/lohri-wishes-26.html" class="hover:text-white hover:underline transition-colors duration-200">Lohri Wishes 26</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/office-lohri.html" class="hover:text-white hover:underline transition-colors duration-200">Office Lohri</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/pongal-cards.html" class="hover:text-white hover:underline transition-colors duration-200">Pongal Cards</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/traditional-lohri-songs.html" class="hover:text-white hover:underline transition-colors duration-200">Traditional Lohri Songs</a></li>
+          <li><a href="https://www.happydeepawali.org/lohri/traditonal-lohri-foods.html" class="hover:text-white hover:underline transition-colors duration-200">Traditonal Lohri Foods</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
+      <p class="text-sm text-gray-400">&copy; 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+      
+    </div>
+
+  </div>
+</footer>

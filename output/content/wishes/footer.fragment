@@ -1,0 +1,93 @@
+
+<footer class="bg-gray-800 text-gray-300">
+  <div class="container mx-auto px-6 py-12 lg:px-8">
+
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+      
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Happy Deppawali</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/" class="hover:text-white hover:underline transition-colors duration-200">/ (2026-01-08)</a></li>
+          <li><a href="https://www.happydeepawali.org/5-days-of-diwali.html" class="hover:text-white hover:underline transition-colors duration-200">5-days-of-diwali.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Diwali-16-current.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali-16-current.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/ (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Brother-Sister-festival.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Brother-Sister-festival.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Karwa Chauth</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-rajasthani.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-rajasthani.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-tamil.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-tamil.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-telugu.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-telugu.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-karwa-chauth.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-karwa-chauth.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-canada.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-canada.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-india.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-india.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Folders</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/wishes/sms/" class="hover:text-white hover:underline transition-colors duration-200">Sms</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-Christmas.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Christmas</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-dussehra.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Dussehra</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-Easter.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Easter</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-Fathers-day.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Fathers Day</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-Halloween.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Halloween</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-Happy-new-year.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Happy New Year</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-Mothers-day.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Mothers Day</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-ThanksGiving.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Thanksgiving</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-messages-for-ValentineDay.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Messages For Valentineday</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/101-traditional-wishes.html" class="hover:text-white hover:underline transition-colors duration-200">101 Traditional Wishes</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/51-diwali-wishes.html" class="hover:text-white hover:underline transition-colors duration-200">51 Diwali Wishes</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/bengali.html" class="hover:text-white hover:underline transition-colors duration-200">Bengali</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/bhojpuri.html" class="hover:text-white hover:underline transition-colors duration-200">Bhojpuri</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/christmas-32.html" class="hover:text-white hover:underline transition-colors duration-200">Christmas 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/diwali-32.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/diwali-quotes-and-sms.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali Quotes And Sms</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/diwali-wishes-in-english.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali Wishes In English</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/diwali-wishes.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali Wishes</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/dusshera-32.html" class="hover:text-white hover:underline transition-colors duration-200">Dusshera 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/easter-32.html" class="hover:text-white hover:underline transition-colors duration-200">Easter 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/fathers-day-32.html" class="hover:text-white hover:underline transition-colors duration-200">Fathers Day 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/french.html" class="hover:text-white hover:underline transition-colors duration-200">French</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/german.html" class="hover:text-white hover:underline transition-colors duration-200">German</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/gujarati.html" class="hover:text-white hover:underline transition-colors duration-200">Gujarati</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/halloween-32.html" class="hover:text-white hover:underline transition-colors duration-200">Halloween 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/happy-new-year-32.html" class="hover:text-white hover:underline transition-colors duration-200">Happy New Year 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/hindi.html" class="hover:text-white hover:underline transition-colors duration-200">Hindi</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/italian.html" class="hover:text-white hover:underline transition-colors duration-200">Italian</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/kannada.html" class="hover:text-white hover:underline transition-colors duration-200">Kannada</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/karvachauth-wishes.html" class="hover:text-white hover:underline transition-colors duration-200">Karvachauth Wishes</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/karwachauth-1.html" class="hover:text-white hover:underline transition-colors duration-200">Karwachauth 1</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/marathi.html" class="hover:text-white hover:underline transition-colors duration-200">Marathi</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/mothers-day-32.html" class="hover:text-white hover:underline transition-colors duration-200">Mothers Day 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/nepalese.html" class="hover:text-white hover:underline transition-colors duration-200">Nepalese</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/rajasthani.html" class="hover:text-white hover:underline transition-colors duration-200">Rajasthani</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/spanish.html" class="hover:text-white hover:underline transition-colors duration-200">Spanish</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/tamil.html" class="hover:text-white hover:underline transition-colors duration-200">Tamil</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/telugu.html" class="hover:text-white hover:underline transition-colors duration-200">Telugu</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/thanksgiving-32.html" class="hover:text-white hover:underline transition-colors duration-200">Thanksgiving 32</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes/valentineday-32.html" class="hover:text-white hover:underline transition-colors duration-200">Valentineday 32</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
+      <p class="text-sm text-gray-400">&copy; 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+      
+    </div>
+
+  </div>
+</footer>

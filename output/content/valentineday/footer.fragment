@@ -1,0 +1,71 @@
+
+<footer class="bg-gray-800 text-gray-300">
+  <div class="container mx-auto px-6 py-12 lg:px-8">
+
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+      
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Happy Deppawali</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/" class="hover:text-white hover:underline transition-colors duration-200">/ (2026-01-08)</a></li>
+          <li><a href="https://www.happydeepawali.org/5-days-of-diwali.html" class="hover:text-white hover:underline transition-colors duration-200">5-days-of-diwali.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Diwali-16-current.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali-16-current.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/ (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Brother-Sister-festival.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Brother-Sister-festival.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Dhanteras-to-Bhaiduj.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html" class="hover:text-white hover:underline transition-colors duration-200">Hindu-festivals-list-and-dates/Diwali/Dhanteras-16.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Karwa Chauth</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-rajasthani.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-rajasthani.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-tamil.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-tamil.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-in-telugu.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-in-telugu.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes-karwa-chauth.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes-karwa-chauth.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwa-chauth/wishes.html" class="hover:text-white hover:underline transition-colors duration-200">karwa-chauth/wishes.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-canada.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-canada.html (2025-09-27)</a></li>
+          <li><a href="https://www.happydeepawali.org/karwachauth/2025/karwa-chauth-moon-rise-india.html" class="hover:text-white hover:underline transition-colors duration-200">karwachauth/2025/karwa-chauth-moon-rise-india.html (2025-09-27)</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/valentineday/2026-valentine-gift-ideas.html" class="hover:text-white hover:underline transition-colors duration-200">2026 Valentine Gift Ideas</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/2026-valentine-gift.html" class="hover:text-white hover:underline transition-colors duration-200">2026 Valentine Gift</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/diy-valentineday-gift-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Diy Valentineday Gift Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/do-it-yourself-gift.html" class="hover:text-white hover:underline transition-colors duration-200">Do It Yourself Gift</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/experience-vs-physical-gifts.html" class="hover:text-white hover:underline transition-colors duration-200">Experience Vs Physical Gifts</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/experience-vs-physical-object.html" class="hover:text-white hover:underline transition-colors duration-200">Experience Vs Physical Object</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/first-valentine-day.html" class="hover:text-white hover:underline transition-colors duration-200">First Valentine Day</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/gift-selection.html" class="hover:text-white hover:underline transition-colors duration-200">Gift Selection</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/how-singles-can-enjoy-feb14.html" class="hover:text-white hover:underline transition-colors duration-200">How Singles Can Enjoy Feb14</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/how-to-celebrate-valentineday-in-long-distance-relationship.html" class="hover:text-white hover:underline transition-colors duration-200">How To Celebrate Valentineday In Long Distance Relationship</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/how-to-spend-first-valentine-day.html" class="hover:text-white hover:underline transition-colors duration-200">How To Spend First Valentine Day</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/ideas.html" class="hover:text-white hover:underline transition-colors duration-200">Ideas</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/index-2.html" class="hover:text-white hover:underline transition-colors duration-200">Index 2</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/ldr-valentineday-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Ldr Valentineday Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/ldr-valentineday-pink.html" class="hover:text-white hover:underline transition-colors duration-200">Ldr Valentineday Pink</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/long-distance-relationship-and-valentineday.html" class="hover:text-white hover:underline transition-colors duration-200">Long Distance Relationship And Valentineday</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentine-day-for-singles.html" class="hover:text-white hover:underline transition-colors duration-200">Valentine Day For Singles</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentine-day-gift-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Valentine Day Gift Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentine-day-guide.html" class="hover:text-white hover:underline transition-colors duration-200">Valentine Day Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentine-day-hub.html" class="hover:text-white hover:underline transition-colors duration-200">Valentine Day Hub</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentine-day-special-wishes.html" class="hover:text-white hover:underline transition-colors duration-200">Valentine Day Special Wishes</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentine-day-wishes.html" class="hover:text-white hover:underline transition-colors duration-200">Valentine Day Wishes</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentineday-ideas.html" class="hover:text-white hover:underline transition-colors duration-200">Valentineday Ideas</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentineday-married-couple.html" class="hover:text-white hover:underline transition-colors duration-200">Valentineday Married Couple</a></li>
+          <li><a href="https://www.happydeepawali.org/valentineday/valentineday-research.html" class="hover:text-white hover:underline transition-colors duration-200">Valentineday Research</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
+      <p class="text-sm text-gray-400">&copy; 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+      
+    </div>
+
+  </div>
+</footer>
