@@ -26,13 +26,22 @@
     .floating-icon { animation: float 4s ease-in-out infinite; }
     .toast { position: fixed; bottom: 18px; right: 18px; z-index: 9999; }
   </style>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7P1WS6BM5K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7P1WS6BM5K');
+</script>
 </head>
 <body class="text-gray-800 min-h-screen flex flex-col">
 <div class="bg-orange-50 border-b border-orange-100">
 <div class="container mx-auto px-4 py-2 text-sm text-orange-900 flex flex-col sm:flex-row gap-2 sm:items-center sm:justify-between">
 <div class="flex items-center gap-2">
 <i class="fa-solid fa-kite text-orange-600"></i>
-<span><strong>Different Names of Sankranti</strong> — India + global variants</span>
+<span><strong>Different Names of Sankranti</strong>   India + global variants</span>
 </div>
 <div class="flex items-center gap-3">
 <a class="hover:underline" href="https://www.sankranti.net/cards/">Cards</a>
@@ -53,7 +62,7 @@
 <h1 class="headline text-4xl md:text-5xl font-bold leading-tight mb-4">Different names of Sankranti</h1>
 <p class="text-lg md:text-xl font-light opacity-90 max-w-3xl mx-auto lg:mx-0">
             Makar Sankranti is celebrated across India as a <strong>harvest and seasonal transition festival</strong>.
-            Different regions use different names — based on local languages, customs, and harvest traditions.
+            Different regions use different names   based on local languages, customs, and harvest traditions.
           </p>
 <div class="mt-7 flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
 <a class="inline-flex items-center justify-center gap-2 bg-white text-orange-700 px-5 py-3 rounded-xl font-semibold shadow-sm hover:bg-orange-50 transition" href="#table">
@@ -354,8 +363,11 @@
 </ul>
 </div>
 </div>
+<div class="mt-8 text-center text-sm text-gray-400">
+<p class="text-sm text-gray-400">Shubh Deepawali Wishes</p>
+</div>
 <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
-<p class="text-sm text-gray-400">© 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+<p class="text-sm text-gray-400">© 2026 Happy Deepawali. All rights reserved.</p>
 </div>
 </div>
 </footer>
@@ -376,7 +388,7 @@
     }
 
     function rowTemplate(item) {
-      const txt = `${item.region} — ${item.name}\n${item.notes}`;
+      const txt = `${item.region}   ${item.name}\n${item.notes}`;
       const wa = encodeURIComponent(`${item.name} (${item.region})\n${item.notes}\n\n- Different Names of Sankranti`);
       return `
         <tr>

@@ -26,13 +26,22 @@
     .floating-icon { animation: float 4s ease-in-out infinite; }
     .toast { position: fixed; bottom: 18px; right: 18px; z-index: 9999; }
   </style>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7P1WS6BM5K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7P1WS6BM5K');
+</script>
 </head>
 <body class="text-gray-800 min-h-screen flex flex-col">
 <div class="bg-orange-50 border-b border-orange-100">
 <div class="container mx-auto px-4 py-2 text-sm text-orange-900 flex flex-col sm:flex-row gap-2 sm:items-center sm:justify-between">
 <div class="flex items-center gap-2">
 <i class="fa-solid fa-sun text-orange-600"></i>
-<span><strong>Hindu Festivals Calendar</strong> — 2026 dates (month-wise + search)</span>
+<span><strong>Hindu Festivals Calendar</strong>   2026 dates (month-wise + search)</span>
 </div>
 <div class="flex items-center gap-3">
 <a class="hover:underline" href="https://www.sankranti.net/cards/">Cards</a>
@@ -243,8 +252,11 @@
 </ul>
 </div>
 </div>
+<div class="mt-8 text-center text-sm text-gray-400">
+<p class="text-sm text-gray-400">Shubh Deepawali Wishes</p>
+</div>
 <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
-<p class="text-sm text-gray-400">© 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+<p class="text-sm text-gray-400">© 2026 Happy Deepawali. All rights reserved.</p>
 </div>
 </div>
 </footer>
@@ -271,8 +283,8 @@
     }
 
     function rowTemplate(item) {
-      const txt = `${item.name} — ${item.date} — ${item.note}`;
-      const enc = encodeURIComponent(item.name + " — " + item.date + "\n" + item.note + "\n- Hindu Festivals 2026");
+      const txt = `${item.name}   ${item.date}   ${item.note}`;
+      const enc = encodeURIComponent(item.name + "   " + item.date + "\n" + item.note + "\n- Hindu Festivals 2026");
       return `
         <tr>
           <td class="py-3 px-3 border-b border-orange-100 align-top font-semibold text-orange-900">${item.name}</td>
@@ -310,8 +322,8 @@
 
       const rows = items.map((it) => {
         const [name, date, note] = it;
-        const txt = `${name} — ${date} — ${note}`;
-        const enc = encodeURIComponent(name + " — " + date + "\n" + note + "\n- Hindu Festivals 2026");
+        const txt = `${name}   ${date}   ${note}`;
+        const enc = encodeURIComponent(name + "   " + date + "\n" + note + "\n- Hindu Festivals 2026");
         return `
           <div class="py-3 px-4 border-t border-orange-50 flex items-start justify-between gap-3">
             <div>
@@ -353,7 +365,7 @@
 
     function copyMonth(monthName) {
       const items = DATA.filter(x => x.month === monthName);
-      const text = items.map(x => `${x.name} — ${x.date} — ${x.note}`).join("\n");
+      const text = items.map(x => `${x.name}   ${x.date}   ${x.note}`).join("\n");
       navigator.clipboard.writeText(monthName + "\n" + text);
       toast("Month copied!");
     }
@@ -361,10 +373,10 @@
 
     function copyAll() {
       const byMonth = MONTHS.map(([m, items]) => {
-        const lines = items.map(([n,d,no]) => `- ${n} — ${d} — ${no}`).join("\n");
+        const lines = items.map(([n,d,no]) => `- ${n}   ${d}   ${no}`).join("\n");
         return m + "\n" + lines;
       }).join("\n\n");
-      navigator.clipboard.writeText("Hindu Festival Dates — 2026\n\n" + byMonth);
+      navigator.clipboard.writeText("Hindu Festival Dates   2026\n\n" + byMonth);
       toast("All dates copied!");
     }
     window.copyAll = copyAll;
@@ -372,9 +384,9 @@
     (function() {
       const byMonth = MONTHS.map(([m, items]) => {
         const lines = items.map(([n,d,no]) => `${n}: ${d}`).join(" | ");
-        return m + " — " + lines;
+        return m + "   " + lines;
       }).join("\n");
-      document.getElementById('waAll').href = "https://wa.me/?text=" + encodeURIComponent("Hindu Festival Dates — 2026\n\n" + byMonth);
+      document.getElementById('waAll').href = "https://wa.me/?text=" + encodeURIComponent("Hindu Festival Dates   2026\n\n" + byMonth);
     })();
   </script>
 </body></html>

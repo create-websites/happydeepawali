@@ -8,7 +8,7 @@
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
     <!-- Chosen Palette: Warm Neutrals -->
-    <!-- Application Structure Plan: The application is designed as a single-page, top-down narrative guide. It starts with a broad introduction to Shraddha and Pitru Paksha, then funnels the user into the specific 2025 calendar, and finally provides actionable information on how to determine their specific date and understand the ritual's importance. This linear, educational structure was chosen over a complex dashboard because the user's primary goal is to find a specific date within a fixed, short period. The flow—What it is, When it is, How to find yours, Why it's important—is the most intuitive path to understanding for a user who may be unfamiliar with the details. -->
+    <!-- Application Structure Plan: The application is designed as a single-page, top-down narrative guide. It starts with a broad introduction to Shraddha and Pitru Paksha, then funnels the user into the specific 2025 calendar, and finally provides actionable information on how to determine their specific date and understand the ritual's importance. This linear, educational structure was chosen over a complex dashboard because the user's primary goal is to find a specific date within a fixed, short period. The flow What it is, When it is, How to find yours, Why it's important is the most intuitive path to understanding for a user who may be unfamiliar with the details. -->
     <!-- Visualization & Content Choices: Report Info: Shraddha dates for Pitru Paksha 2025 and rules for determination. -> Goal: Inform and guide the user to their specific Shraddha date. -> Viz/Presentation Method: A clear, styled HTML list/table. -> Interaction: Simple vertical scroll and clear visual grouping of information. -> Justification: For a fixed and relatively small dataset (16 days), a graphical chart or calendar is overly complex and less direct than a simple list. The list format directly maps the Hindu Tithi to the Gregorian date, which is the user's primary need. It's highly readable on all devices without complex interactions. -> Library/Method: HTML and Tailwind CSS. -->
     <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
     <style>
@@ -43,6 +43,15 @@
             border-left: 4px solid #FDBA74;
         }
     </style>
+	<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7P1WS6BM5K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7P1WS6BM5K');
+</script>
 </head>
 <body class="antialiased">
     <div class="min-h-screen">
@@ -137,8 +146,11 @@
 </ul>
 </div>
 </div>
+<div class="mt-8 text-center text-sm text-gray-400">
+<p class="text-sm text-gray-400">Shubh Deepawali Wishes</p>
+</div>
 <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
-<p class="text-sm text-gray-400">© 2026 Dataknobs for Builing Data Products. All rights reserved.</p>
+<p class="text-sm text-gray-400">© 2026 Happy Deepawali. All rights reserved.</p>
 </div>
 </div>
 </footer></main>
