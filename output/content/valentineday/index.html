@@ -1,33 +1,26 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-    <meta charset="utf-8"/>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    
-    <!-- SEO Meta Tags -->
-    <meta content="10 authentic Valentine’s Day ideas for married couples. Keep the spark alive with meaningful connection, new traditions, and intentional romance." name="description"/>
-    <meta content="Valentine's Day for married couples, marriage advice, keeping the spark alive, romantic ideas for husband wife, long-term relationship tips, marriage connection" name="keywords"/>
-    <meta content="Marriage Valentine Guide" name="author"/>
-    
-    <title>Valentine’s Day for Married Couples | Keeping the Spark Alive</title>
+<html lang="en"><head> <meta charset="utf-8"/> <meta content="width=device-width, initial-scale=1.0" name="viewport"/> <title>The Economics of Affection: Valentine's Day Research</title> <script src="https://cdn.tailwindcss.com"></script> <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&amp;family=Lato:wght@300;400;700&amp;display=swap" rel="stylesheet"/> <script> tailwind.config = { theme: { extend: { fontFamily: { serif: ['"Playfair Display"', 'serif'], sans: ['"Lato"', 'sans-serif'], }, colors: { rose: { 50: '#FFF1F2', 100: '#FFE4E6', 500: '#F43F5E', 600: '#E11D48', 900: '#881337', }, warm: { 50: '#FFFBFB', 800: '#4A403A', } } } } } </script> <style> body { background-color: #FFFBFB; color: #4A403A; } /* Chart Container Styling - MANDATORY */ .chart-container { position: relative; width: 100%; height: 350px; max-height: 400px; margin: 0 auto; } @media (max-width: 640px) { .chart-container { height: 280px; } }
 
-    <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    .nav-active {
+        border-bottom: 2px solid #E11D48;
+        color: #E11D48;
+        font-weight: 700;
+    }
     
-    <!-- Lucide Icons -->
-    <script src="https://unpkg.com/lucide@latest"></script>
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-        .scrollbar-hide::-webkit-scrollbar { display: none; }
-        .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
-        .fade-in { animation: fadeIn 0.3s ease-in-out; }
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    </style>
-	
-	<!-- Google tag (gtag.js) -->
+    .animate-fade {
+        animation: fadeIn 0.4s ease-out;
+    }
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(5px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .card-hover:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+    }
+</style>
+<!-- Google tag (gtag.js) -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7P1WS6BM5K"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -36,83 +29,288 @@
 
   gtag('config', 'G-7P1WS6BM5K');
 </script>
-	
-<link href="https://storage.googleapis.com/css-designs/purple/kreatewebsites.production.css" rel="stylesheet"/><script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9804321536688475"></script></head>
-<body class="bg-rose-50 text-slate-900 selection:bg-rose-200 selection:text-rose-900 min-h-screen flex flex-col">
+<link href="https://storage.googleapis.com/css-designs/purple/kreatewebsites.production.css" rel="stylesheet"/><script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9804321536688475"></script></head> 
+<body class="font-sans antialiased min-h-screen flex flex-col">
 
-    <!-- Header -->
-    <header class="relative py-20 px-6 text-center overflow-hidden bg-white/50 border-b border-rose-100">
-        <div class="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none select-none">
-            <i class="absolute top-10 left-10 w-24 h-24 transform -rotate-12 text-rose-900" data-lucide="heart-handshake"></i>
-            <i class="absolute bottom-10 right-10 w-36 h-36 transform rotate-6 text-rose-900" data-lucide="flame"></i>
-        </div>
-        <div class="relative z-10 max-w-3xl mx-auto">
-            <h1 class="text-4xl md:text-6xl font-extrabold text-slate-900 mb-6 tracking-tight">
-                Keeping the <span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-500 to-pink-600">Spark</span> Alive
-            </h1>
-            <p class="text-lg md:text-xl text-slate-600 leading-relaxed mb-4">
-                Valentine's Day is not about reliving the honeymoon period, but rather about intentionally selecting each other once more, with mindfulness and presence.
-            </p>
-            <div class="inline-block px-4 py-1 bg-white rounded-full border border-rose-200 text-rose-600 text-sm font-medium">
-                Authentic Connection &gt; Perfection
+<!-- Header / Hero -->
+<header class="bg-white border-b border-rose-100 sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-col md:flex-row justify-between items-center py-4">
+            <div class="mb-4 md:mb-0 text-center md:text-left">
+                <h1 class="font-serif text-3xl font-bold text-rose-900 tracking-tight">The Economics of Affection</h1>
+                <p class="text-xs text-gray-500 uppercase tracking-widest mt-1">Valentine's Day Consumer Research 2025</p>
+            </div>
+            <!-- Key Metrics Summary -->
+            <div class="flex items-center space-x-8 bg-rose-50 px-6 py-2 rounded-lg border border-rose-100">
+                <div class="text-center">
+                    <p class="text-xs text-gray-500 uppercase font-bold">Total Spend</p>
+                    <p class="text-xl font-serif font-bold text-rose-600">$27.5 Billion</p>
+                </div>
+                <div class="h-8 w-px bg-rose-200"></div>
+                <div class="text-center">
+                    <p class="text-xs text-gray-500 uppercase font-bold">Avg / Person</p>
+                    <p class="text-xl font-serif font-bold text-warm-800">$188.81</p>
+                </div>
             </div>
         </div>
-    </header>
-
-    <!-- Main Content -->
-    <main class="max-w-7xl mx-auto px-6 -mt-8 relative z-20 flex-grow w-full">
         
-        <!-- Controls Bar -->
-        <div class="bg-white rounded-2xl shadow-lg p-4 mb-10 flex flex-col md:flex-row items-center justify-between gap-4 border border-slate-100">
-            
-            <!-- Filters -->
-            <div class="flex items-center gap-2 overflow-x-auto w-full md:w-auto pb-2 md:pb-0 scrollbar-hide" id="category-filters">
-                <i class="text-slate-400 mr-2 flex-shrink-0 w-5 h-5" data-lucide="filter"></i>
-                <!-- Buttons injected by JS -->
+        <!-- Navigation Tabs -->
+        <nav class="flex space-x-6 md:space-x-12 overflow-x-auto pb-0" id="main-nav">
+            <button class="nav-btn nav-active whitespace-nowrap pb-3 text-sm transition-colors hover:text-rose-500 font-medium" data-tab="wallet" onclick="switchTab('wallet')">The Wallet</button>
+            <button class="nav-btn whitespace-nowrap pb-3 text-sm transition-colors hover:text-rose-500 text-gray-500 font-medium" data-tab="heart" onclick="switchTab('heart')">The Heart (Recipients)</button>
+            <button class="nav-btn whitespace-nowrap pb-3 text-sm transition-colors hover:text-rose-500 text-gray-500 font-medium" data-tab="pulse" onclick="switchTab('pulse')">The Pulse (Trends)</button>
+            <button class="nav-btn whitespace-nowrap pb-3 text-sm transition-colors hover:text-rose-500 text-gray-500 font-medium" data-tab="shopper" onclick="switchTab('shopper')">The Shopper</button>
+        </nav>
+    </div>
+</header>
+
+<!-- Main Content -->
+<main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+
+    <!-- VIEW 1: THE WALLET -->
+    <div class="animate-fade block" id="view-wallet">
+        <div class="max-w-3xl mx-auto text-center mb-8">
+            <h2 class="font-serif text-2xl text-warm-800 mb-2">Popularity vs. Profitability</h2>
+            <p class="text-gray-600 leading-relaxed">
+                A critical finding in the research is the disconnect between gift volume and economic value. 
+                While <span class="font-bold text-rose-500">57%</span> when consumers purchase candy, it only makes up a small portion of their total spending compared to 
+                <span class="font-bold text-rose-500">Jewelry</span>, which drives $6.4B in revenue despite lower purchase frequency.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- Main Chart -->
+            <div class="lg:col-span-2 bg-white p-6 rounded-xl shadow-sm border border-rose-50">
+                <div class="flex justify-between items-center mb-6">
+                    <h3 class="font-bold text-lg text-warm-800">Category Breakdown</h3>
+                    <!-- Chart Controls -->
+                    <div class="flex bg-gray-100 rounded-lg p-1">
+                        <button class="px-3 py-1 text-xs font-bold rounded-md bg-white text-rose-600 shadow-sm transition-all" id="btn-pop" onclick="updateWalletChart('popularity')">By Popularity (%)</button>
+                        <button class="px-3 py-1 text-xs font-bold rounded-md text-gray-500 hover:text-rose-600 transition-all" id="btn-spend" onclick="updateWalletChart('spend')">By Spend ($B)</button>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="walletChart"></canvas>
+                </div>
+                <div class="mt-2 text-xs text-gray-400 text-center italic">Source: NRF &amp; Prosper Insights Data (2025 Projection)</div>
             </div>
 
-            <!-- Actions -->
-            <div class="flex items-center gap-3 w-full md:w-auto">
-                <button class="flex-1 md:flex-none flex items-center justify-center gap-2 px-5 py-2.5 bg-rose-50 text-rose-600 rounded-xl hover:bg-rose-100 font-medium transition-colors" onclick="pickRandom()">
-                    <i class="w-4 h-4" data-lucide="sparkles"></i>
-                    <span>Inspire Us</span>
-                </button>
-                
-                <button class="flex-1 md:flex-none flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-medium transition-colors bg-white border border-slate-200 text-slate-600 hover:border-rose-300 hover:text-rose-600" id="btn-saved-view" onclick="toggleSavedView()">
-                    <i class="w-4 h-4" data-lucide="bookmark"></i>
-                    <span id="saved-count-text">Saved (0)</span>
-                </button>
+            <!-- Key Findings Cards -->
+            <div class="space-y-4">
+                <div class="bg-white p-5 rounded-xl shadow-sm border border-rose-50 card-hover transition-transform duration-300">
+                    <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">💎</span>
+                        <h4 class="font-bold text-gray-800">The Revenue King</h4>
+                    </div>
+                    <p class="text-sm text-gray-600 mb-2">Jewelry remains the highest spending category.</p>
+                    <div class="flex justify-between items-end border-b border-rose-100 pb-2">
+                        <span class="text-xs text-gray-400">Total Projection</span>
+                        <span class="font-bold text-lg text-rose-600">$6.4 Billion</span>
+                    </div>
+                </div>
+
+                <div class="bg-white p-5 rounded-xl shadow-sm border border-rose-50 card-hover transition-transform duration-300">
+                    <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🍬</span>
+                        <h4 class="font-bold text-gray-800">The Volume King</h4>
+                    </div>
+                    <p class="text-sm text-gray-600 mb-2">Over half of all shoppers purchase candy, making it the most popular gift choice.</p>
+                    <div class="flex justify-between items-end border-b border-rose-100 pb-2">
+                        <span class="text-xs text-gray-400">Participation</span>
+                        <span class="font-bold text-lg text-rose-600">57%</span>
+                    </div>
+                </div>
+
+                <div class="bg-rose-50 p-5 rounded-xl border border-rose-100">
+                    <h4 class="font-bold text-rose-800 text-xs uppercase mb-2">Economic Note</h4>
+                    <p class="text-sm text-gray-700 italic">The rise in cocoa prices has caused "shrinkflation" in chocolate gifts, but demand from consumers for this holiday essential remains unchanged.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- VIEW 2: THE HEART -->
+    <div class="hidden animate-fade" id="view-heart">
+         <div class="max-w-3xl mx-auto text-center mb-8">
+            <h2 class="font-serif text-2xl text-warm-800 mb-2">Who Gets the Love?</h2>
+            <p class="text-gray-600 leading-relaxed">
+                The list of recipients is growing. Although partners are the main focus, the <span class="font-bold text-rose-600">"Pet Economy"</span> 
+                and <span class="font-bold text-rose-600">"Galentine's"</span> celebrations have turned friends and fur-babies into significant spending categories.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+            <!-- Doughnut Chart Section -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-rose-50">
+                <h3 class="font-bold text-lg text-warm-800 mb-2 text-center">Share of Wallet Breakdown</h3>
+                <p class="text-xs text-gray-400 text-center mb-6">Click segments to see average spend per person</p>
+                <div class="chart-container" style="max-height: 350px; max-width: 400px; margin: 0 auto;">
+                    <canvas id="relationshipsChart"></canvas>
+                </div>
+                <div class="mt-4 text-center p-4 bg-rose-50 rounded-lg transition-all" id="donut-detail">
+                    <p class="text-sm font-bold text-warm-800">Select a segment above for details</p>
+                </div>
+            </div>
+
+            <!-- Trends List -->
+            <div class="space-y-6">
+                <!-- Pet Trend -->
+                <div class="flex flex-col p-6 bg-white rounded-xl shadow-sm border-l-4 border-rose-400 card-hover transition-transform">
+                    <div class="flex justify-between items-start mb-2">
+                        <h4 class="font-serif text-xl font-bold text-warm-800">The "Fur-Baby" Economy</h4>
+                        <span class="text-2xl">🐾</span>
+                    </div>
+                    <p class="text-gray-600 text-sm mb-4">32% of consumers are planning to buy their pets a Valentine's gift, making pets official recipients of love on this special day.</p>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div class="bg-gray-50 p-3 rounded">
+                            <span class="block text-xs text-gray-400 uppercase">Total Spend</span>
+                            <span class="block text-lg font-bold text-warm-800">~$1.7B</span>
+                        </div>
+                        <div class="bg-gray-50 p-3 rounded">
+                            <span class="block text-xs text-gray-400 uppercase">Per Pet</span>
+                            <span class="block text-lg font-bold text-warm-800">$12.21</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Friends Trend -->
+                <div class="flex flex-col p-6 bg-white rounded-xl shadow-sm border-l-4 border-rose-300 card-hover transition-transform">
+                    <div class="flex justify-between items-start mb-2">
+                        <h4 class="font-serif text-xl font-bold text-warm-800">Friends &amp; Co-workers</h4>
+                        <span class="text-2xl">🥂</span>
+                    </div>
+                    <p class="text-gray-600 text-sm mb-4">Purchasing gifts for friends (Galentine's) and colleagues shows a move towards expressing platonic gratitude.</p>
+                    <div class="flex items-center text-sm">
+                        <div class="w-full bg-gray-100 rounded-full h-2 mr-3">
+                            <div class="bg-rose-300 h-2 rounded-full" style="width: 28%"></div>
+                        </div>
+                        <span class="text-gray-600 font-bold">28%</span>
+                    </div>
+                    <p class="text-xs text-gray-400 mt-1">of consumers buy for friends/non-romantic peers.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- VIEW 3: THE PULSE -->
+    <div class="hidden animate-fade" id="view-pulse">
+        <div class="max-w-3xl mx-auto text-center mb-8">
+            <h2 class="font-serif text-2xl text-warm-800 mb-2">Search Trends &amp; Timeline</h2>
+            <p class="text-gray-600 leading-relaxed">
+                Digital behavior reveals the anxiety behind the holiday. From the "Procrastination Curve" spike in February to 
+                specific keyword trends like "Situationships" and "DIY", search data tells the real story.
+            </p>
+        </div>
+
+        <!-- Timeline Chart -->
+        <div class="w-full bg-white p-6 rounded-xl shadow-sm border border-rose-50 mb-8">
+            <h3 class="font-bold text-lg text-warm-800 mb-4">The "Panic Buy" Curve (Search Volume)</h3>
+            <div class="chart-container" style="height: 300px;">
+                <canvas id="timelineChart"></canvas>
             </div>
         </div>
 
-        <!-- Saved View (Hidden by default) -->
-        <div class="hidden mb-12 fade-in" id="saved-view">
-            <div class="flex items-center justify-between mb-6">
-                <h2 class="text-2xl font-bold text-slate-800">Your Marriage Plan</h2>
-                <button class="text-sm text-rose-500 hover:text-rose-700 underline decoration-dotted" onclick="clearFavorites()">Clear all</button>
+        <!-- Interactive Keywords Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+                <h3 class="font-bold text-lg text-warm-800 mb-4">Trending Search Terms</h3>
+                <p class="text-sm text-gray-500 mb-4">Click a term to reveal the context behind the data.</p>
+                <div class="flex flex-wrap gap-3">
+                    <button class="px-4 py-2 rounded-full border border-gray-200 text-sm hover:bg-rose-50 hover:border-rose-300 hover:text-rose-600 transition-colors bg-white font-medium" onclick="showTrend('situationship')">Situationship</button>
+                    <button class="px-4 py-2 rounded-full border border-gray-200 text-sm hover:bg-rose-50 hover:border-rose-300 hover:text-rose-600 transition-colors bg-white font-medium" onclick="showTrend('stanley')">Valentine's Stanley Cup</button>
+                    <button class="px-4 py-2 rounded-full border border-gray-200 text-sm hover:bg-rose-50 hover:border-rose-300 hover:text-rose-600 transition-colors bg-white font-medium" onclick="showTrend('strawberries')">Choc Covered Strawberries</button>
+                    <button class="px-4 py-2 rounded-full border border-gray-200 text-sm hover:bg-rose-50 hover:border-rose-300 hover:text-rose-600 transition-colors bg-white font-medium" onclick="showTrend('diy')">DIY Card</button>
+                    <button class="px-4 py-2 rounded-full border border-gray-200 text-sm hover:bg-rose-50 hover:border-rose-300 hover:text-rose-600 transition-colors bg-white font-medium" onclick="showTrend('outfit')">First Date Outfit</button>
+                    <button class="px-4 py-2 rounded-full border border-gray-200 text-sm hover:bg-rose-50 hover:border-rose-300 hover:text-rose-600 transition-colors bg-white font-medium" onclick="showTrend('selfcare')">Self Care</button>
+                </div>
             </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="saved-grid">
-                <!-- Saved items injected here -->
+
+            <!-- Dynamic Trend Details Card -->
+            <div class="bg-rose-50 rounded-xl p-8 flex flex-col justify-center items-center text-center border border-rose-100 min-h-[200px] transition-all" id="trend-display">
+                <span class="text-4xl mb-4">🔍</span>
+                <h4 class="font-serif text-xl font-bold text-warm-800 mb-2">Select a Trend</h4>
+                <p class="text-gray-600 text-sm">Click the bubbles on the left to uncover the insight.</p>
             </div>
-            <div class="h-px bg-slate-200 w-full my-10"></div>
+        </div>
+    </div>
+
+    <!-- VIEW 4: THE SHOPPER -->
+    <div class="hidden animate-fade" id="view-shopper">
+         <div class="max-w-3xl mx-auto text-center mb-8">
+            <h2 class="font-serif text-2xl text-warm-800 mb-2">Demographics &amp; Behavior</h2>
+            <p class="text-gray-600 leading-relaxed">
+                The <span class="font-bold text-warm-800">35-44 year old</span> demographic drives the economy, likely due to balancing gifts for spouses, children, and pets. 
+                There is also a significant spending gap between men and women.
+            </p>
         </div>
 
-        <!-- Empty State for Saved View -->
-        <div class="hidden text-center py-12 bg-white rounded-2xl border-2 border-dashed border-slate-200 mb-12" id="saved-empty">
-            <div class="flex justify-center mb-4"><i class="w-12 h-12 text-slate-200" data-lucide="bookmark"></i></div>
-            <p class="text-slate-500">No ideas have been saved yet. Pick the ones that connect with your relationship!</p>
-            <div class="h-px bg-slate-200 w-full mt-10"></div>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <!-- Age Chart -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-rose-50">
+                <h3 class="font-bold text-lg text-warm-800 mb-6">Average Spending by Age</h3>
+                <div class="chart-container">
+                    <canvas id="ageChart"></canvas>
+                </div>
+            </div>
+
+            <div class="space-y-6">
+                <!-- Gender Stats -->
+                <div class="grid grid-cols-2 gap-4">
+                    <div class="bg-warm-800 text-white p-5 rounded-xl text-center shadow-lg">
+                        <span class="text-3xl mb-2 block">🤵</span>
+                        <h4 class="text-sm uppercase tracking-widest text-gray-300 mb-1">Men</h4>
+                        <p class="text-xs text-gray-400 mb-2">Avg Spend</p>
+                        <span class="text-3xl font-serif font-bold">$235</span>
+                    </div>
+                    <div class="bg-rose-100 text-rose-900 p-5 rounded-xl text-center shadow-sm border border-rose-200">
+                        <span class="text-3xl mb-2 block">👩</span>
+                        <h4 class="text-sm uppercase tracking-widest text-rose-600 mb-1">Women</h4>
+                        <p class="text-xs text-rose-400 mb-2">Avg Spend</p>
+                        <span class="text-3xl font-serif font-bold">$119</span>
+                    </div>
+                </div>
+
+                <!-- Online vs Offline -->
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-rose-50">
+                    <h3 class="font-bold text-lg text-warm-800 mb-4">Where They Shop</h3>
+                    <div class="space-y-4">
+                        <div>
+                            <div class="flex justify-between text-sm mb-1">
+                                <span class="font-semibold text-gray-700">Online</span>
+                                <span class="font-bold text-rose-500">40%</span>
+                            </div>
+                            <div class="w-full bg-gray-100 rounded-full h-3">
+                                <div class="bg-rose-500 h-3 rounded-full" style="width: 40%"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex justify-between text-sm mb-1">
+                                <span class="font-semibold text-gray-700">Department Stores</span>
+                                <span class="font-bold text-warm-800">33%</span>
+                            </div>
+                            <div class="w-full bg-gray-100 rounded-full h-3">
+                                <div class="bg-warm-800 h-3 rounded-full" style="width: 33%"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex justify-between text-sm mb-1">
+                                <span class="font-semibold text-gray-700">Discount Stores</span>
+                                <span class="font-bold text-gray-500">31%</span>
+                            </div>
+                            <div class="w-full bg-gray-100 rounded-full h-3">
+                                <div class="bg-gray-400 h-3 rounded-full" style="width: 31%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+    </div>
 
-        <!-- Main Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="ideas-grid">
-            <!-- Cards injected by JS -->
-        </div>
+</main>
 
-    </main>
-
-    <!-- Footer -->
-    <footer class="bg-gray-800 text-gray-300">
+<!-- Footer / Interactive Calculator -->
+<footer class="bg-gray-800 text-gray-300">
 <div class="container mx-auto px-6 py-12 lg:px-8">
 <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
 <div>
@@ -171,342 +369,336 @@
 </div>
 </div>
 <div class="mt-8 text-center text-sm text-gray-400">
-<p class="text-sm text-gray-400">Diwali 2026 Nov 8 Sunday</p>
+<p class="text-sm text-gray-400">Deepawali stories in detail</p>
 </div>
 <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
-<p class="text-sm text-gray-400">© 2026 Happy Diwali. All rights reserved.</p>
+<p class="text-sm text-gray-400">© 2026 Happy Deepawali. All rights reserved.</p>
 </div>
 </div>
 </footer>
 
-    <!-- Modal -->
-    <div class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm transition-opacity opacity-0" id="modal-overlay" onclick="closeModal()">
-        <div class="bg-white rounded-3xl max-w-lg w-full p-8 relative shadow-2xl transform scale-95 transition-transform" id="modal-content" onclick="event.stopPropagation()">
-            <button class="absolute top-4 right-4 p-2 text-slate-400 hover:text-slate-600 hover:bg-slate-100 rounded-full transition-colors" onclick="closeModal()">
-                <i class="w-6 h-6" data-lucide="x"></i>
-            </button>
+<script>
+    // --- DATA OBJECTS ---
+    const walletData = {
+        spend: {
+            label: 'Total Spending (Billions $)',
+            data: [6.4, 4.9, 3.0, 2.6, 2.2, 1.8],
+            labels: ['Jewelry', 'Evening Out', 'Clothing', 'Flowers', 'Candy', 'Gift Cards'],
+            bg: ['#E11D48', '#881337', '#F43F5E', '#FB7185', '#FECDD3', '#E5E7EB'] // Dark red for high value, light for low
+        },
+        popularity: {
+            label: '% of Shoppers Purchasing',
+            data: [22, 32, 21, 37, 57, 20],
+            labels: ['Jewelry', 'Evening Out', 'Clothing', 'Flowers', 'Candy', 'Gift Cards'],
+            bg: ['#E11D48', '#881337', '#F43F5E', '#FB7185', '#FECDD3', '#E5E7EB'] 
+        }
+    };
 
-            <div class="flex items-center gap-4 mb-6">
-                <div class="p-4 bg-rose-100 rounded-2xl">
-                    <i class="w-8 h-8 text-rose-600" id="modal-icon"></i>
-                </div>
-                <div>
-                    <span class="text-sm font-semibold text-rose-500 uppercase tracking-wide" id="modal-category">Category</span>
-                    <h2 class="text-2xl font-bold text-slate-900 leading-tight" id="modal-title">Title</h2>
-                </div>
-            </div>
+    const trendContext = {
+        'situationship': { title: 'The Situationship', icon: '😶‍🌫️', text: 'Searches for "Situationship" and "Sneaky Link" spike +100% in Feb. The ambiguity of dating drives anxiety-based searches.' },
+        'stanley': { title: 'Viral Products', icon: '🥤', text: 'The "Valentine\'s Stanley Cup" represents the "Drop Culture" aspect of the holiday. Limited edition items create artificial scarcity and urgency.' },
+        'strawberries': { title: 'Classic Cravings', icon: '🍓', text: '"Chocolate Covered Strawberries" is the #1 edible search term, consistently outranking boxed chocolates in search intent.' },
+        'diy': { title: 'Handmade Effort', icon: '🧶', text: '"DIY Valentine Card" interest peaks Feb 12-13. Consumers look to save money or add a personal touch at the last minute.' },
+        'outfit': { title: 'Date Night Prep', icon: '👗', text: 'Searches for "Casual first date outfit" peak, indicating many people use the holiday for new romance, not just long-term partners.' },
+        'selfcare': { title: 'Me, Myself & I', icon: '🛁', text: 'Self-care searches are up year-over-year. The "Treat Yourself" narrative is a major commercial pillar for singles.' }
+    };
 
-            <div class="prose prose-rose">
-                <p class="text-lg text-slate-700 leading-relaxed" id="modal-desc">Description goes here...</p>
-            </div>
+    // --- CHART INSTANCES ---
+    let chartWallet, chartRelationships, chartTimeline, chartAge;
 
-            <div class="mt-8 flex gap-3">
-                <button class="flex-1 flex items-center justify-center gap-2 py-3 px-6 rounded-xl font-semibold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200" id="modal-fav-btn" onclick="toggleFavoriteFromModal()">
-                    <i class="w-5 h-5" data-lucide="bookmark"></i>
-                    <span id="modal-btn-text">Save Idea</span>
-                </button>
-            </div>
-        </div>
-    </div>
+    // --- INITIALIZATION ---
+    document.addEventListener('DOMContentLoaded', () => {
+        initWalletChart();
+        initRelationshipsChart();
+        initTimelineChart();
+        initAgeChart();
+    });
 
-    <script>
-        // --- Data ---
-        const ideas = [
-            { 
-                id: 1, 
-                title: "Redefine Romance", 
-                description: "Romance after marriage isn’t always about grand gestures. It’s often about safety, familiarity, and deep understanding. A quiet evening or shared laughter can be just as romantic as an elaborate date. Ask yourselves: What makes us feel close right now?", 
-                icon: "refresh-cw", 
-                category: "Mindset" 
-            },
-            { 
-                id: 2, 
-                title: "Prioritize Connection Over Perfection", 
-                description: "Valentine’s Day doesn’t need flawless execution. A home-cooked meal after a long day or simply sitting without distractions can create more connection than an expensive, rushed plan. Perfection fades; presence lasts.", 
-                icon: "wifi", 
-                category: "Mindset" 
-            },
-            { 
-                id: 3, 
-                title: "Revisit Your Origin Story", 
-                description: "Life moves fast. Use this day to pause and remember how you met, what drew you to each other, and the moments that shaped your journey. Rewatch wedding videos or look through old photos. Remembering your “why” reignites emotional intimacy.", 
-                icon: "history", 
-                category: "Nostalgia" 
-            },
-            { 
-                id: 4, 
-                title: "Communicate Beyond Logistics", 
-                description: "Move past schedules and problem-solving. Ask: What do you appreciate most about each other right now? What’s something you admire that goes unsaid? Emotional intimacy is one of the strongest sparks there is.", 
-                icon: "message-circle-heart", 
-                category: "Connection" 
-            },
-            { 
-                id: 5, 
-                title: "Create New Traditions", 
-                description: "Traditions give marriage a rhythm. Write letters to open each year, plan a small annual getaway, or cook the same special meal. Shared rituals deepen connection and give you something to look forward to together.", 
-                icon: "calendar-heart", 
-                category: "Tradition" 
-            },
-            { 
-                id: 6, 
-                title: "Invest in Physical Affection", 
-                description: "Affection isn't just about sex it’s about closeness. Holding hands, hugging longer, or slow dancing in the living room restores connection without pressure. Safety and comfort are powerful forms of desire.", 
-                icon: "heart-handshake", 
-                category: "Intimacy" 
-            },
-            { 
-                id: 7, 
-                title: "Make Time the Main Gift", 
-                description: "In marriage, time is precious. Consider taking a day off together, planning a device-free evening, or scheduling regular date nights. Intentional time sends a clear message: 'You’re still my priority.'", 
-                icon: "clock", 
-                category: "Connection" 
-            },
-            { 
-                id: 8, 
-                title: "Celebrate Growth", 
-                description: "Passion evolves into trust, partnership, and resilience. Acknowledge how you’ve grown together, what you’ve overcome, and how love has matured. Recognizing this growth strengthens appreciation and respect.", 
-                icon: "trending-up", 
-                category: "Mindset" 
-            },
-            { 
-                id: 9, 
-                title: "Focus on 'Us,' Not Expectations", 
-                description: "Comparison drains joy. Forget about how it looks on social media and focus on how it feels. A celebration that reflects your real relationship will always matter more than one that looks impressive to others.", 
-                icon: "users", 
-                category: "Mindset" 
-            },
-            { 
-                id: 10, 
-                title: "Remember: The Spark Is a Choice", 
-                description: "The spark isn’t magic; it’s maintained through small, consistent choices. Kindness, curiosity, patience, and humor keep love alive. Use this day to recommit to choosing each other.", 
-                icon: "flame", 
-                category: "Intimacy" 
-            }
-        ];
+    // --- VIEW SWITCHING LOGIC ---
+    function switchTab(tabId) {
+        // Hide all views
+        ['wallet', 'heart', 'pulse', 'shopper'].forEach(id => {
+            document.getElementById(`view-${id}`).classList.add('hidden');
+            // Remove nav active class
+            const btn = document.querySelector(`button[data-tab="${id}"]`);
+            btn.classList.remove('nav-active', 'text-rose-500');
+            btn.classList.add('text-gray-500');
+        });
 
-        const categories = ["All", "Connection", "Mindset", "Intimacy", "Tradition", "Nostalgia"];
+        // Show selected
+        document.getElementById(`view-${tabId}`).classList.remove('hidden');
         
-        // --- State ---
-        let activeCategory = "All";
-        let favorites = JSON.parse(localStorage.getItem('marriageFavorites')) || [];
-        let showSavedView = false;
-        let currentModalId = null;
+        // Set active nav
+        const activeBtn = document.querySelector(`button[data-tab="${tabId}"]`);
+        activeBtn.classList.add('nav-active', 'text-rose-500');
+        activeBtn.classList.remove('text-gray-500');
 
-        // --- Init ---
-        function init() {
-            renderCategories();
-            renderGrid();
-            updateSavedButton();
-            lucide.createIcons();
-        }
+        // Force chart resize (Canvas limitation fix)
+        setTimeout(() => {
+            if (chartWallet) chartWallet.resize();
+            if (chartRelationships) chartRelationships.resize();
+            if (chartTimeline) chartTimeline.resize();
+            if (chartAge) chartAge.resize();
+        }, 50);
+    }
 
-        // --- Rendering ---
-        function renderCategories() {
-            const container = document.getElementById('category-filters');
-            container.innerHTML = '<i data-lucide="filter" class="text-slate-400 mr-2 flex-shrink-0 w-5 h-5"></i>';
-            
-            categories.forEach(cat => {
-                const btn = document.createElement('button');
-                const isActive = activeCategory === cat;
-                btn.className = `px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-all ${isActive ? 'bg-rose-600 text-white shadow-md' : 'bg-white text-slate-600 hover:bg-rose-50 hover:text-rose-600 border border-slate-200'}`;
-                btn.textContent = cat;
-                btn.onclick = () => {
-                    activeCategory = cat;
-                    renderCategories();
-                    renderGrid();
-                };
-                container.appendChild(btn);
-            });
-            lucide.createIcons();
-        }
-
-        function createCardHTML(idea, isFav) {
-            return `
-            <div onclick="openModal(${idea.id})" class="group relative bg-white rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-rose-100 hover:border-rose-300 cursor-pointer flex flex-col h-full fade-in ${isFav ? 'ring-2 ring-rose-400' : ''}">
-                <div class="absolute top-4 right-4 z-10">
-                    <button onclick="event.stopPropagation(); toggleFavorite(${idea.id})" 
-                        class="p-2 rounded-full transition-all ${isFav ? 'bg-rose-100 text-rose-600' : 'bg-gray-50 text-gray-400 hover:bg-rose-50 hover:text-rose-400'}">
-                        <i data-lucide="bookmark" class="w-5 h-5 ${isFav ? 'fill-current' : ''}"></i>
-                    </button>
-                </div>
-                <div class="mb-4 p-3 bg-rose-50 rounded-xl w-fit group-hover:bg-rose-100 transition-colors">
-                    <i data-lucide="${idea.icon}" class="w-6 h-6 text-rose-600"></i>
-                </div>
-                <div class="mb-2">
-                    <span class="text-xs font-medium uppercase tracking-wider text-rose-400">${idea.category}</span>
-                </div>
-                <h3 class="text-xl font-bold text-slate-800 mb-3 group-hover:text-rose-700 transition-colors">${idea.title}</h3>
-                <p class="text-slate-600 leading-relaxed text-sm line-clamp-3">${idea.description}</p>
-                <div class="mt-auto pt-4 flex items-center text-rose-600 font-medium text-sm opacity-0 group-hover:opacity-100 transition-opacity transform translate-y-2 group-hover:translate-y-0">
-                    Read More <i data-lucide="arrow-right" class="w-4 h-4 ml-1"></i>
-                </div>
-            </div>`;
-        }
-
-        function renderGrid() {
-            const grid = document.getElementById('ideas-grid');
-            grid.innerHTML = '';
-            
-            const filtered = activeCategory === "All" ? ideas : ideas.filter(i => i.category === activeCategory);
-            
-            filtered.forEach(idea => {
-                grid.innerHTML += createCardHTML(idea, favorites.includes(idea.id));
-            });
-            lucide.createIcons();
-        }
-
-        function renderSaved() {
-            const savedGrid = document.getElementById('saved-grid');
-            const emptyState = document.getElementById('saved-empty');
-            savedGrid.innerHTML = '';
-            
-            const savedIdeas = ideas.filter(i => favorites.includes(i.id));
-
-            if (savedIdeas.length === 0) {
-                savedGrid.parentElement.classList.add('hidden');
-                emptyState.classList.remove('hidden');
-            } else {
-                savedGrid.parentElement.classList.remove('hidden');
-                emptyState.classList.add('hidden');
-                savedIdeas.forEach(idea => {
-                    savedGrid.innerHTML += createCardHTML(idea, true);
-                });
-            }
-            lucide.createIcons();
-        }
-
-        // --- Logic ---
-        function toggleFavorite(id) {
-            if (favorites.includes(id)) {
-                favorites = favorites.filter(fid => fid !== id);
-            } else {
-                favorites.push(id);
-            }
-            localStorage.setItem('marriageFavorites', JSON.stringify(favorites));
-            
-            updateSavedButton();
-            renderGrid();
-            if (showSavedView) renderSaved();
-            if (currentModalId === id) updateModalButton(id);
-        }
-
-        function updateSavedButton() {
-            const btn = document.getElementById('btn-saved-view');
-            const text = document.getElementById('saved-count-text');
-            const icon = btn.querySelector('i');
-            
-            text.textContent = `Saved (${favorites.length})`;
-            
-            if (showSavedView) {
-                btn.className = "flex-1 md:flex-none flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-medium transition-colors bg-rose-100 border border-rose-200 text-rose-700";
-                icon.classList.add('fill-current');
-            } else {
-                btn.className = "flex-1 md:flex-none flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-medium transition-colors bg-white border border-slate-200 text-slate-600 hover:border-rose-300 hover:text-rose-600";
-                icon.classList.remove('fill-current');
-            }
-            lucide.createIcons();
-        }
-
-        function toggleSavedView() {
-            showSavedView = !showSavedView;
-            const savedView = document.getElementById('saved-view');
-            const savedEmpty = document.getElementById('saved-empty');
-            
-            updateSavedButton();
-            
-            if (showSavedView) {
-                renderSaved();
-                if(favorites.length === 0) {
-                   savedView.classList.add('hidden');
-                   savedEmpty.classList.remove('hidden');
-                } else {
-                   savedView.classList.remove('hidden');
-                   savedEmpty.classList.add('hidden');
+    // --- CHART 1: WALLET (Bar) ---
+    function initWalletChart() {
+        const ctx = document.getElementById('walletChart').getContext('2d');
+        chartWallet = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: walletData.spend.labels,
+                datasets: [{
+                    label: 'Total Spending ($ Billions)',
+                    data: walletData.spend.data,
+                    backgroundColor: walletData.spend.bg,
+                    borderRadius: 6,
+                    borderSkipped: false
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.raw + (walletData.spend.data.includes(context.raw) ? ' Billion' : '%');
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: '#f3f4f6' }
+                    },
+                    x: {
+                        grid: { display: false }
+                    }
                 }
-            } else {
-                savedView.classList.add('hidden');
-                savedEmpty.classList.add('hidden');
             }
+        });
+    }
+
+    function updateWalletChart(mode) {
+        const btnPop = document.getElementById('btn-pop');
+        const btnSpend = document.getElementById('btn-spend');
+        
+        if (mode === 'popularity') {
+            chartWallet.data.datasets[0].data = walletData.popularity.data;
+            chartWallet.data.datasets[0].label = '% of Shoppers Buying';
+            // Update buttons
+            btnPop.classList.add('bg-white', 'text-rose-600', 'shadow-sm');
+            btnPop.classList.remove('text-gray-500');
+            btnSpend.classList.remove('bg-white', 'text-rose-600', 'shadow-sm');
+            btnSpend.classList.add('text-gray-500');
+        } else {
+            chartWallet.data.datasets[0].data = walletData.spend.data;
+            chartWallet.data.datasets[0].label = 'Total Spending ($ Billions)';
+            // Update buttons
+            btnSpend.classList.add('bg-white', 'text-rose-600', 'shadow-sm');
+            btnSpend.classList.remove('text-gray-500');
+            btnPop.classList.remove('bg-white', 'text-rose-600', 'shadow-sm');
+            btnPop.classList.add('text-gray-500');
         }
+        chartWallet.update();
+    }
 
-        function clearFavorites() {
-            favorites = [];
-            localStorage.setItem('marriageFavorites', JSON.stringify(favorites));
-            updateSavedButton();
-            renderGrid();
-            renderSaved();
-        }
-
-        function pickRandom() {
-            const randomIdea = ideas[Math.floor(Math.random() * ideas.length)];
-            openModal(randomIdea.id);
-        }
-
-        // --- Modal ---
-        function openModal(id) {
-            const idea = ideas.find(i => i.id === id);
-            if (!idea) return;
-
-            currentModalId = id;
-            document.getElementById('modal-title').textContent = idea.title;
-            document.getElementById('modal-desc').textContent = idea.description;
-            document.getElementById('modal-category').textContent = idea.category;
-            
-            const iconContainer = document.getElementById('modal-icon').parentElement;
-            iconContainer.innerHTML = `<i data-lucide="${idea.icon}" class="w-8 h-8 text-rose-600"></i>`;
-
-            updateModalButton(id);
-
-            const overlay = document.getElementById('modal-overlay');
-            const content = document.getElementById('modal-content');
-            
-            overlay.classList.remove('hidden');
-            setTimeout(() => {
-                overlay.classList.remove('opacity-0');
-                content.classList.remove('scale-95');
-                content.classList.add('scale-100');
-            }, 10);
-            
-            lucide.createIcons();
-        }
-
-        function updateModalButton(id) {
-            const isFav = favorites.includes(id);
-            const btn = document.getElementById('modal-fav-btn');
-            const txt = document.getElementById('modal-btn-text');
-            const icon = btn.querySelector('i');
-
-            if (isFav) {
-                btn.className = "flex-1 flex items-center justify-center gap-2 py-3 px-6 rounded-xl font-semibold transition-all bg-rose-100 text-rose-700 hover:bg-rose-200";
-                txt.textContent = "Saved to Plan";
-                icon.classList.add('fill-current');
-            } else {
-                btn.className = "flex-1 flex items-center justify-center gap-2 py-3 px-6 rounded-xl font-semibold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200";
-                txt.textContent = "Save Idea";
-                icon.classList.remove('fill-current');
+    // --- CHART 2: RELATIONSHIPS (Doughnut) ---
+    function initRelationshipsChart() {
+        const ctx = document.getElementById('relationshipsChart').getContext('2d');
+        chartRelationships = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Partner', 'Family', 'Friends', 'Children', 'Pets', 'Co-workers', 'Other'],
+                datasets: [{
+                    data: [103, 30, 15, 22, 12, 7, 5], // Avg spend per person breakdown
+                    backgroundColor: [
+                        '#E11D48', // Partner (Dark Rose)
+                        '#F43F5E', 
+                        '#FB7185', 
+                        '#FECDD3', 
+                        '#4A403A', // Pets (Dark brown/Charcoal)
+                        '#E5E7EB',
+                        '#F3F4F6'
+                    ],
+                    hoverOffset: 15,
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: 'bottom', labels: { boxWidth: 10, usePointStyle: true, padding: 20 } },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return `$${context.raw} avg`;
+                            }
+                        }
+                    }
+                },
+                onClick: (e, elements) => {
+                    if (elements.length > 0) {
+                        const index = elements[0].index;
+                        const label = chartRelationships.data.labels[index];
+                        const value = chartRelationships.data.datasets[0].data[index];
+                        const detailBox = document.getElementById('donut-detail');
+                        
+                        let comment = "";
+                        if(label === "Pets") comment = "32% of people buy for pets, making it a $1.7B economy.";
+                        if(label === "Partner") comment = "Still the core driver of the holiday economy.";
+                        if(label === "Friends") comment = "Galentine's impact is real: spend is up +15% YoY.";
+                        
+                        detailBox.innerHTML = `
+                            <p class="text-rose-600 font-bold uppercase text-xs">${label}</p>
+                            <p class="text-3xl font-serif text-warm-800 font-bold">$${value}</p>
+                            <p class="text-gray-500 text-xs italic mt-1">${comment}</p>
+                        `;
+                    }
+                }
             }
-            lucide.createIcons();
+        });
+    }
+
+    // --- CHART 3: TIMELINE (Line) ---
+    function initTimelineChart() {
+        const ctx = document.getElementById('timelineChart').getContext('2d');
+        chartTimeline = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['Jan 15', 'Jan 22', 'Jan 29', 'Feb 1', 'Feb 5', 'Feb 8', 'Feb 11', 'Feb 12', 'Feb 13', 'Feb 14'],
+                datasets: [{
+                    label: 'Search Interest Index',
+                    data: [15, 20, 35, 45, 55, 65, 85, 92, 98, 100],
+                    borderColor: '#E11D48',
+                    backgroundColor: (context) => {
+                        const ctx = context.chart.ctx;
+                        const gradient = ctx.createLinearGradient(0, 0, 0, 300);
+                        gradient.addColorStop(0, 'rgba(225, 29, 72, 0.4)');
+                        gradient.addColorStop(1, 'rgba(225, 29, 72, 0.0)');
+                        return gradient;
+                    },
+                    fill: true,
+                    tension: 0.4,
+                    pointBackgroundColor: '#fff',
+                    pointBorderColor: '#E11D48',
+                    pointRadius: 5,
+                    pointHoverRadius: 8
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            title: (items) => {
+                                if(items[0].label === 'Feb 11') return 'Feb 11: Weekend Before';
+                                if(items[0].label === 'Feb 13') return 'Feb 13: Galentine\'s';
+                                return items[0].label;
+                            },
+                            label: (context) => {
+                                return 'Intensity: ' + context.raw + '/100';
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    y: { display: false },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+    }
+
+    // --- CHART 4: AGE (Bar) ---
+    function initAgeChart() {
+        const ctx = document.getElementById('ageChart').getContext('2d');
+        chartAge = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['18-24', '25-34', '35-44', '45-54', '55-64', '65+'],
+                datasets: [{
+                    label: 'Avg Spend ($)',
+                    data: [140, 260, 335, 250, 110, 85],
+                    backgroundColor: [
+                        '#FECDD3', '#F43F5E', '#E11D48', '#F43F5E', '#FECDD3', '#FECDD3'
+                    ],
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: { display: true, text: 'Dollars ($)' }
+                    },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+    }
+
+    // --- INTERACTIVITY FUNCTIONS ---
+    function showTrend(key) {
+        const data = trendContext[key];
+        const display = document.getElementById('trend-display');
+        
+        // Animate transition
+        display.style.opacity = '0';
+        display.style.transform = 'translateY(5px)';
+        
+        setTimeout(() => {
+            display.innerHTML = `
+                <span class="text-4xl mb-3 animate-bounce">${data.icon}</span>
+                <h4 class="font-serif text-2xl font-bold text-rose-600 mb-2">${data.title}</h4>
+                <p class="text-warm-800 leading-relaxed text-sm">${data.text}</p>
+            `;
+            display.style.opacity = '1';
+            display.style.transform = 'translateY(0)';
+            display.classList.add('bg-white', 'shadow-md');
+            display.classList.remove('bg-rose-50');
+        }, 200);
+    }
+
+    function calculateComparison() {
+        const input = document.getElementById('userSpend').value;
+        const resultDiv = document.getElementById('calcResult');
+        const avg = 188.81;
+
+        if (!input) return;
+
+        const val = parseFloat(input);
+        let msg = "";
+        let color = "";
+
+        if (val < 50) {
+            msg = "You're a <span class='font-bold'>Minimalist Romantic</span>. Well below the $188 average. DIY gifts or cards likely?";
+            color = "text-gray-500";
+        } else if (val < 188) {
+            msg = "You're a <span class='font-bold'>Sensible Shopper</span>. Below the national average, keeping it reasonable.";
+            color = "text-warm-800";
+        } else if (val < 350) {
+            msg = "You're an <span class='font-bold'>Above Average Admirer</span>. Spending more than the typical consumer.";
+            color = "text-rose-500";
+        } else {
+            msg = "You're a <span class='font-bold'>Grand Gesturer</span>! Way above the curve. Jewelry or a big trip?";
+            color = "text-rose-700";
         }
 
-        function toggleFavoriteFromModal() {
-            if (currentModalId) toggleFavorite(currentModalId);
-        }
-
-        function closeModal() {
-            const overlay = document.getElementById('modal-overlay');
-            const content = document.getElementById('modal-content');
-            
-            overlay.classList.add('opacity-0');
-            content.classList.remove('scale-100');
-            content.classList.add('scale-95');
-            
-            setTimeout(() => {
-                overlay.classList.add('hidden');
-                currentModalId = null;
-            }, 300);
-        }
-
-        init();
-    </script>
-
-</body></html>
+        resultDiv.innerHTML = `<p class="${color} text-base">${msg}</p>`;
+        resultDiv.classList.remove('hidden');
+    }
+</script>
+ </body></html>
