@@ -30,6 +30,32 @@
       </div>
 
       <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Folders</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/shraddh/ancestor-remembrance-family-history-stories/" class="hover:text-white hover:underline transition-colors duration-200">Ancestor Remembrance Family History Stories</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/gaya-pind-daan-pilgrimage/" class="hover:text-white hover:underline transition-colors duration-200">Gaya Pind Daan Pilgrimage</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/haridwar-varanasi-prayagraj-shraddha/" class="hover:text-white hover:underline transition-colors duration-200">Haridwar Varanasi Prayagraj Shraddha</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/memory-maker/" class="hover:text-white hover:underline transition-colors duration-200">Memory Maker</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/messages/" class="hover:text-white hover:underline transition-colors duration-200">Messages</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/pitru-paksha-2026-dates/" class="hover:text-white hover:underline transition-colors duration-200">Pitru Paksha 2026 Dates</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/pitru-paksha-2027-dates/" class="hover:text-white hover:underline transition-colors duration-200">Pitru Paksha 2027 Dates</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/regional-shraddha-traditions-india-nepal/" class="hover:text-white hover:underline transition-colors duration-200">Regional Shraddha Traditions India Nepal</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-at-home-puja-ritual-guide/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha At Home Puja Ritual Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-diaspora-modern-practical-guide/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Diaspora Modern Practical Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-faq-glossary-rules-special-cases/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Faq Glossary Rules Special Cases</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-feeding-charity/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Feeding Charity</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-food-offerings-meals-recipes/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Food Offerings Meals Recipes</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-pilgrimage-planning/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Pilgrimage Planning</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-pitru-paksha-meaning/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Pitru Paksha Meaning</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-scriptures-stories-philosophy/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Scriptures Stories Philosophy</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-symbolism-water-sesame-kusha-pinda/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Symbolism Water Sesame Kusha Pinda</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/shraddha-tithi-amavasya-guide/" class="hover:text-white hover:underline transition-colors duration-200">Shraddha Tithi Amavasya Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/tarpan-pind-daan-guide/" class="hover:text-white hover:underline transition-colors duration-200">Tarpan Pind Daan Guide</a></li>
+          <li><a href="https://www.happydeepawali.org/shraddh/who-can-perform-shraddha-family-roles/" class="hover:text-white hover:underline transition-colors duration-200">Who Can Perform Shraddha Family Roles</a></li>
+        </ul>
+      </div>
+
+      <div>
         <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
         <ul class="space-y-2">
           <li><a href="https://www.happydeepawali.org/shraddh/ancestral-healing-epigenetics-shraddh.html" class="hover:text-white hover:underline transition-colors duration-200">Ancestral Healing Epigenetics Shraddh</a></li>
@@ -58,7 +84,7 @@
     </div>
 
     <div class="mt-8 text-center text-sm text-gray-400">
-      <p class="text-sm text-gray-400">Deepawali stories in detail</p>
+      <p class="text-sm text-gray-400">Shraddh to Navratri</p>
     </div>
 
     <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
