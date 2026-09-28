@@ -32,37 +32,61 @@
       <div>
         <h5 class="text-lg font-semibold text-white mb-4">Folders</h5>
         <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/2026/" class="hover:text-white hover:underline transition-colors duration-200">2026</a></li>
           <li><a href="https://www.happydeepawali.org/ayodhya-temple/" class="hover:text-white hover:underline transition-colors duration-200">Ayodhya Temple</a></li>
           <li><a href="https://www.happydeepawali.org/bhai-dooj/" class="hover:text-white hover:underline transition-colors duration-200">Bhai Dooj</a></li>
+          <li><a href="https://www.happydeepawali.org/business-office-workplace-and-brand-celebrations/" class="hover:text-white hover:underline transition-colors duration-200">Business Office Workplace And Brand Celebrations</a></li>
           <li><a href="https://www.happydeepawali.org/cards/" class="hover:text-white hover:underline transition-colors duration-200">Cards</a></li>
           <li><a href="https://www.happydeepawali.org/chhath-puja/" class="hover:text-white hover:underline transition-colors duration-200">Chhath Puja</a></li>
           <li><a href="https://www.happydeepawali.org/chinese-new-year/" class="hover:text-white hover:underline transition-colors duration-200">Chinese New Year</a></li>
           <li><a href="https://www.happydeepawali.org/choti-diwali/" class="hover:text-white hover:underline transition-colors duration-200">Choti Diwali</a></li>
           <li><a href="https://www.happydeepawali.org/christmas/" class="hover:text-white hover:underline transition-colors duration-200">Christmas</a></li>
           <li><a href="https://www.happydeepawali.org/dhanteras/" class="hover:text-white hover:underline transition-colors duration-200">Dhanteras</a></li>
+          <li><a href="https://www.happydeepawali.org/dhanteras-shopping-gold-silver-business-and-prosperity/" class="hover:text-white hover:underline transition-colors duration-200">Dhanteras Shopping Gold Silver Business And Prosperity</a></li>
+          <li><a href="https://www.happydeepawali.org/diwali-2026-city-events-local-search-and-near-me/" class="hover:text-white hover:underline transition-colors duration-200">Diwali 2026 City Events Local Search And Near Me</a></li>
+          <li><a href="https://www.happydeepawali.org/diyas-rangoli-decor-lights-and-home-design/" class="hover:text-white hover:underline transition-colors duration-200">Diyas Rangoli Decor Lights And Home Design</a></li>
+          <li><a href="https://www.happydeepawali.org/durga-puja/" class="hover:text-white hover:underline transition-colors duration-200">Durga Puja</a></li>
+          <li><a href="https://www.happydeepawali.org/dussehra/" class="hover:text-white hover:underline transition-colors duration-200">Dussehra</a></li>
           <li><a href="https://www.happydeepawali.org/dusshera/" class="hover:text-white hover:underline transition-colors duration-200">Dusshera</a></li>
+          <li><a href="https://www.happydeepawali.org/eco-friendly-diwali-fireworks-safety-and-sustainability/" class="hover:text-white hover:underline transition-colors duration-200">Eco Friendly Diwali Fireworks Safety And Sustainability</a></li>
+          <li><a href="https://www.happydeepawali.org/fashion-jewelry-mehndi-and-festive-style/" class="hover:text-white hover:underline transition-colors duration-200">Fashion Jewelry Mehndi And Festive Style</a></li>
+          <li><a href="https://www.happydeepawali.org/five-days-dhanteras-choti-diwali-lakshmi-puja-govardhan-bhai-dooj/" class="hover:text-white hover:underline transition-colors duration-200">Five Days Dhanteras Choti Diwali Lakshmi Puja Govardhan Bhai Dooj</a></li>
+          <li><a href="https://www.happydeepawali.org/foundation-history-meaning-and-core-traditions/" class="hover:text-white hover:underline transition-colors duration-200">Foundation History Meaning And Core Traditions</a></li>
           <li><a href="https://www.happydeepawali.org/gifts/" class="hover:text-white hover:underline transition-colors duration-200">Gifts</a></li>
+          <li><a href="https://www.happydeepawali.org/gifts-shopping-hampers-and-corporate-gifting/" class="hover:text-white hover:underline transition-colors duration-200">Gifts Shopping Hampers And Corporate Gifting</a></li>
+          <li><a href="https://www.happydeepawali.org/global-diaspora-and-diwali-around-the-world/" class="hover:text-white hover:underline transition-colors duration-200">Global Diaspora And Diwali Around The World</a></li>
+          <li><a href="https://www.happydeepawali.org/govardhan-puja-annakut-bali-pratipada-and-bhai-dooj/" class="hover:text-white hover:underline transition-colors duration-200">Govardhan Puja Annakut Bali Pratipada And Bhai Dooj</a></li>
           <li><a href="https://www.happydeepawali.org/goverdhan-puja/" class="hover:text-white hover:underline transition-colors duration-200">Goverdhan Puja</a></li>
           <li><a href="https://www.happydeepawali.org/gudi-padwa/" class="hover:text-white hover:underline transition-colors duration-200">Gudi Padwa</a></li>
           <li><a href="https://www.happydeepawali.org/hindu-books/" class="hover:text-white hover:underline transition-colors duration-200">Hindu Books</a></li>
           <li><a href="https://www.happydeepawali.org/Hindu-festivals-list-and-dates/" class="hover:text-white hover:underline transition-colors duration-200">Hindu Festivals List And Dates</a></li>
           <li><a href="https://www.happydeepawali.org/hindu-shraddh/" class="hover:text-white hover:underline transition-colors duration-200">Hindu Shraddh</a></li>
           <li><a href="https://www.happydeepawali.org/ideas/" class="hover:text-white hover:underline transition-colors duration-200">Ideas</a></li>
+          <li><a href="https://www.happydeepawali.org/images-wallpapers-rangoli-visuals-and-social-content/" class="hover:text-white hover:underline transition-colors duration-200">Images Wallpapers Rangoli Visuals And Social Content</a></li>
           <li><a href="https://www.happydeepawali.org/karwa-chauth/" class="hover:text-white hover:underline transition-colors duration-200">Karwa Chauth</a></li>
+          <li><a href="https://www.happydeepawali.org/kids-school-essays-crafts-games-and-printables/" class="hover:text-white hover:underline transition-colors duration-200">Kids School Essays Crafts Games And Printables</a></li>
+          <li><a href="https://www.happydeepawali.org/lakshmi-puja-ganesha-puja-and-home-rituals/" class="hover:text-white hover:underline transition-colors duration-200">Lakshmi Puja Ganesha Puja And Home Rituals</a></li>
           <li><a href="https://www.happydeepawali.org/lohri/" class="hover:text-white hover:underline transition-colors duration-200">Lohri</a></li>
           <li><a href="https://www.happydeepawali.org/makar-sankranti/" class="hover:text-white hover:underline transition-colors duration-200">Makar Sankranti</a></li>
+          <li><a href="https://www.happydeepawali.org/naraka-chaturdashi-choti-diwali-and-abhayang-snan/" class="hover:text-white hover:underline transition-colors duration-200">Naraka Chaturdashi Choti Diwali And Abhayang Snan</a></li>
           <li><a href="https://www.happydeepawali.org/navratri/" class="hover:text-white hover:underline transition-colors duration-200">Navratri</a></li>
           <li><a href="https://www.happydeepawali.org/pongal/" class="hover:text-white hover:underline transition-colors duration-200">Pongal</a></li>
           <li><a href="https://www.happydeepawali.org/puja/" class="hover:text-white hover:underline transition-colors duration-200">Puja</a></li>
           <li><a href="https://www.happydeepawali.org/quotes/" class="hover:text-white hover:underline transition-colors duration-200">Quotes</a></li>
           <li><a href="https://www.happydeepawali.org/ram-navami/" class="hover:text-white hover:underline transition-colors duration-200">Ram Navami</a></li>
           <li><a href="https://www.happydeepawali.org/ram-temple/" class="hover:text-white hover:underline transition-colors duration-200">Ram Temple</a></li>
+          <li><a href="https://www.happydeepawali.org/ramayana-krishna-kali-and-diwali-mythology/" class="hover:text-white hover:underline transition-colors duration-200">Ramayana Krishna Kali And Diwali Mythology</a></li>
+          <li><a href="https://www.happydeepawali.org/regional-diwali-traditions-across-india/" class="hover:text-white hover:underline transition-colors duration-200">Regional Diwali Traditions Across India</a></li>
           <li><a href="https://www.happydeepawali.org/safe-diwali/" class="hover:text-white hover:underline transition-colors duration-200">Safe Diwali</a></li>
           <li><a href="https://www.happydeepawali.org/search/" class="hover:text-white hover:underline transition-colors duration-200">Search</a></li>
           <li><a href="https://www.happydeepawali.org/shraddh/" class="hover:text-white hover:underline transition-colors duration-200">Shraddh</a></li>
           <li><a href="https://www.happydeepawali.org/stories/" class="hover:text-white hover:underline transition-colors duration-200">Stories</a></li>
+          <li><a href="https://www.happydeepawali.org/sweets-snacks-festive-meals-and-recipes/" class="hover:text-white hover:underline transition-colors duration-200">Sweets Snacks Festive Meals And Recipes</a></li>
+          <li><a href="https://www.happydeepawali.org/travel-ayodhya-varanasi-jaipur-and-cultural-tourism/" class="hover:text-white hover:underline transition-colors duration-200">Travel Ayodhya Varanasi Jaipur And Cultural Tourism</a></li>
+          <li><a href="https://www.happydeepawali.org/ultra-long-tail-seo-faqs-comparisons-and-micro-topics/" class="hover:text-white hover:underline transition-colors duration-200">Ultra Long Tail Seo Faqs Comparisons And Micro Topics</a></li>
           <li><a href="https://www.happydeepawali.org/valentineday/" class="hover:text-white hover:underline transition-colors duration-200">Valentineday</a></li>
           <li><a href="https://www.happydeepawali.org/vijya-dashmi/" class="hover:text-white hover:underline transition-colors duration-200">Vijya Dashmi</a></li>
+          <li><a href="https://www.happydeepawali.org/wishes-quotes-messages-captions-and-language-greetings/" class="hover:text-white hover:underline transition-colors duration-200">Wishes Quotes Messages Captions And Language Greetings</a></li>
         </ul>
       </div>
 
@@ -74,6 +98,7 @@
           <li><a href="https://www.happydeepawali.org/Diwali-16-current.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali 16 Current</a></li>
           <li><a href="https://www.happydeepawali.org/diwali-main.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali Main</a></li>
           <li><a href="https://www.happydeepawali.org/diwali-small.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali Small</a></li>
+          <li><a href="https://www.happydeepawali.org/diwali-topics.html" class="hover:text-white hover:underline transition-colors duration-200">Diwali Topics</a></li>
           <li><a href="https://www.happydeepawali.org/image.html" class="hover:text-white hover:underline transition-colors duration-200">Image</a></li>
           <li><a href="https://www.happydeepawali.org/index2.html" class="hover:text-white hover:underline transition-colors duration-200">Index2</a></li>
           <li><a href="https://www.happydeepawali.org/index_template.html" class="hover:text-white hover:underline transition-colors duration-200">Index Template</a></li>
