@@ -1,5 +1,6 @@
 original_path,output_path,articleurl,status,footer_used
-index.html,index.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/footer.fragment
+index.html.bak.html,index.html.bak.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/footer.fragment
+index-deepawali.html,index.html,yes,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/footer.fragment
 sitemap_content.html,sitemap_content.html,yes,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/footer.fragment
 search.html,search.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/footer.fragment
 diwali-topics.html,diwali-topics.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/footer.fragment
@@ -291,9 +292,10 @@ karwa-chauth/sargi-fasting-rules-and-daytime-routine/nirjala-karwa-chauth-fast-m
 karwa-chauth/sargi-fasting-rules-and-daytime-routine/karwa-chauth-fasting-rules-traditional-practices-explained.html,karwa-chauth/sargi-fasting-rules-and-daytime-routine/karwa-chauth-fasting-rules-traditional-practices-explained.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/karwa-chauth/sargi-fasting-rules-and-daytime-routine/footer.fragment
 karwa-chauth/sargi-fasting-rules-and-daytime-routine/karwa-chauth-for-pregnant-or-nursing-women-discussing-traditions-safely.html,karwa-chauth/sargi-fasting-rules-and-daytime-routine/karwa-chauth-for-pregnant-or-nursing-women-discussing-traditions-safely.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/karwa-chauth/sargi-fasting-rules-and-daytime-routine/footer.fragment
 karwa-chauth/sargi-fasting-rules-and-daytime-routine/what-can-be-done-during-the-karwa-chauth-fast.html,karwa-chauth/sargi-fasting-rules-and-daytime-routine/what-can-be-done-during-the-karwa-chauth-fast.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/karwa-chauth/sargi-fasting-rules-and-daytime-routine/footer.fragment
+golu/golu-guide.html,golu/golu-guide.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/footer.fragment
 golu/index.htm.bak.html,golu/index.htm.bak.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/footer.fragment
+golu/index.html,golu/index.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/footer.fragment
 golu/image-gallery.html,golu/image-gallery.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/footer.fragment
-golu/index-images.html,golu/index-images.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/footer.fragment
 golu/guides-faq/golu-myths-vs-family-customs-what-is-actually-required.html,golu/guides-faq/golu-myths-vs-family-customs-what-is-actually-required.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/guides-faq/footer.fragment
 golu/guides-faq/how-to-build-a-family-golu-tradition-from-scratch.html,golu/guides-faq/how-to-build-a-family-golu-tradition-from-scratch.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/guides-faq/footer.fragment
 golu/guides-faq/stories-behind-the-most-popular-golu-dolls.html,golu/guides-faq/stories-behind-the-most-popular-golu-dolls.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/golu/guides-faq/footer.fragment
@@ -831,7 +833,18 @@ foundation-history-meaning-and-core-traditions/diwali-etiquette-for-guests-and-f
 foundation-history-meaning-and-core-traditions/what-to-do-on-diwali-day-complete-celebration-checklist.html,foundation-history-meaning-and-core-traditions/what-to-do-on-diwali-day-complete-celebration-checklist.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/foundation-history-meaning-and-core-traditions/footer.fragment
 foundation-history-meaning-and-core-traditions/why-do-people-light-diyas-on-diwali.html,foundation-history-meaning-and-core-traditions/why-do-people-light-diyas-on-diwali.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/foundation-history-meaning-and-core-traditions/footer.fragment
 search/search.html,search/index.html,yes,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/search/footer.fragment
-2026/index.html,2026/index.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/quick-answers.html,2026/quick-answers.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/five-nights.html,2026/five-nights.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/planner.html,2026/planner.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/around-the-world.html,2026/around-the-world.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/index.html.old.html,2026/index.html.old.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/deepawali-index.html,2026/deepawali-index.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/mithai.html,2026/mithai.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/lights-photo-essay.html,2026/lights-photo-essay.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/rangoli-city-lights.html,2026/rangoli-city-lights.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/ghats-and-temples.html,2026/ghats-and-temples.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/world-heritage-essay.html,2026/world-heritage-essay.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
+2026/puja-thali.html,2026/puja-thali.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/footer.fragment
 2026/deepawali-brown/index.html,2026/deepawali-brown/index.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/deepawali-brown/footer.fragment
 2026/deepawali-red/index.html,2026/deepawali-red/index.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/2026/deepawali-red/footer.fragment
 christmas/uk-pantomime-christmas-crackers.html,christmas/uk-pantomime-christmas-crackers.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/christmas/footer.fragment
@@ -1738,6 +1751,17 @@ sweets/gifting-storage-presentation/the-joy-of-sharing-distributing-sweets-to-th
 sweets/gifting-storage-presentation/how-to-professionally-package-homemade-sweets-for-gifting.html,sweets/gifting-storage-presentation/how-to-professionally-package-homemade-sweets-for-gifting.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/sweets/gifting-storage-presentation/footer.fragment
 sweets/gifting-storage-presentation/garnishing-like-a-pro-using-edible-silver-foil-vark.html,sweets/gifting-storage-presentation/garnishing-like-a-pro-using-edible-silver-foil-vark.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/sweets/gifting-storage-presentation/footer.fragment
 sweets/gifting-storage-presentation/adding-personalized-notes-and-calories-tags-to-gift-boxes.html,sweets/gifting-storage-presentation/adding-personalized-notes-and-calories-tags-to-gift-boxes.html,no,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/sweets/gifting-storage-presentation/footer.fragment
+sweets/popular-sweets/index.html,sweets/popular-sweets/index.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/bihari-diwali-sweets.html,sweets/popular-sweets/bihari-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/diwali-laddoos.html,sweets/popular-sweets/diwali-laddoos.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/karnataka-diwali-sweets.html,sweets/popular-sweets/karnataka-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/bengali-diwali-sweets.html,sweets/popular-sweets/bengali-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/rajasthani-diwali-sweets.html,sweets/popular-sweets/rajasthani-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/gujarati-diwali-sweets.html,sweets/popular-sweets/gujarati-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/maharashtrian-diwali-sweets.html,sweets/popular-sweets/maharashtrian-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/tamil-nadu-diwali-sweets.html,sweets/popular-sweets/tamil-nadu-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/andhra-diwali-sweets.html,sweets/popular-sweets/andhra-diwali-sweets.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
+sweets/popular-sweets/diwali-burfi.html,sweets/popular-sweets/diwali-burfi.html,no,merged,/Users/prashantdhingra/e/a3_input/happydeepawali.org/input/footer_black.htm
 makar-sankranti/important-sankrantis.html,makar-sankranti/different-sankrantis.html,yes,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/makar-sankranti/footer.fragment
 makar-sankranti/lohri.recreated (1).html,makar-sankranti/lohri-recreated-1.html,yes,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/makar-sankranti/footer.fragment
 makar-sankranti/khichdi-purv.html,makar-sankranti/khichdi-purv.html,yes,merged,/Users/prashantdhingra/e/a3_output/happydeepawali.org/output/content/makar-sankranti/footer.fragment
