@@ -1,0 +1,44 @@
+{
+  "page": "fasting/sabudana-khichdi.html",
+  "updated": "2026-10-07T18:00:00-07:00",
+  "comments": [
+    {
+      "id": "c1",
+      "name": "Test Reader One",
+      "location": "Pune",
+      "date": "2026-10-05T09:15:00+05:30",
+      "text": "The tip about soaking with just enough water worked. First time my khichdi did not turn into one sticky lump.",
+      "replies": [
+        {
+          "id": "c1-r1",
+          "name": "Prashant Dhingra",
+          "author_reply": true,
+          "date": "2026-10-05T20:40:00-07:00",
+          "text": "Glad it helped. Pearl size varies by brand, so keep notes on how much water your brand needs."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Test Reader Two",
+      "location": "New Jersey",
+      "date": "2026-10-06T07:05:00-04:00",
+      "text": "Can I make this ahead for a work lunch?\n\nI fast most of the nine days and cook the night before.",
+      "replies": [
+        {
+          "id": "c2-r1",
+          "name": "Test Reader Three",
+          "date": "2026-10-06T10:30:00-04:00",
+          "text": "I do. Reheat with a splash of water and a little ghee and it softens again."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Hidden Test Comment",
+      "date": "2026-10-06T12:00:00+05:30",
+      "status": "hidden",
+      "text": "This comment has status hidden, so it should NOT appear on the page."
+    }
+  ]
+}

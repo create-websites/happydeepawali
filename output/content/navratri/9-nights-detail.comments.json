@@ -1,0 +1,68 @@
+{
+  "comments": [
+    {
+      "id": "navratri-001",
+      "name": "Anita Sharma",
+      "location": "Seattle, WA",
+      "date": "2026-09-28T18:30:00-07:00",
+      "status": "published",
+      "text": "Beautiful explanation of Navratri. I especially liked the reminder that the vrat is about devotion and self-discipline, not only food restrictions.\n\nCould you also add a short section on a simple daily Durga prayer for families?",
+      "replies": [
+        {
+          "id": "navratri-001-r1",
+          "name": "HappyDiwali.org",
+          "date": "2026-09-29T09:15:00-07:00",
+          "status": "published",
+          "author_reply": true,
+          "text": "Thank you, Anita. Yes, we are adding a simple daily prayer section along with guidance for families who prefer a short home puja.",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "navratri-002",
+      "name": "Ravi Mehta",
+      "location": "Dallas, TX",
+      "date": "2026-10-01T07:45:00-05:00",
+      "status": "published",
+      "text": "The nine-day structure is very useful. It would be helpful to mention that customs and fasting foods can vary by family and region.",
+      "replies": []
+    },
+    {
+      "id": "navratri-003",
+      "name": "Meera Iyer",
+      "location": "San Jose, CA",
+      "date": "2026-10-03T20:10:00-07:00",
+      "status": "published",
+      "text": "I came for the Navratri dates but stayed for the spiritual meaning. The focus on Shakti, seva and inner reflection makes the page much more meaningful.",
+      "replies": [
+        {
+          "id": "navratri-003-r1",
+          "name": "HappyDiwali.org",
+          "date": "2026-10-04T08:20:00-07:00",
+          "status": "published",
+          "author_reply": true,
+          "text": "Thank you, Meera. That is exactly the balance we want—practical festival information together with the devotional meaning behind the observance.",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "navratri-004",
+      "name": "Test Hidden User",
+      "location": "Test City",
+      "date": "2026-10-05T12:00:00-07:00",
+      "status": "hidden",
+      "text": "This comment is intentionally hidden. If your comment loader is working correctly, this text should NOT appear on the page.",
+      "replies": []
+    },
+    {
+      "id": "navratri-005",
+      "name": "Priya",
+      "date": "2026-10-06T17:35:00-07:00",
+      "status": "published",
+      "text": "Jai Mata Di! The page is easy to read on mobile and the devotional guidance is clear.",
+      "replies": []
+    }
+  ]
+}
