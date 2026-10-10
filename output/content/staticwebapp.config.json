@@ -1,0 +1,16 @@
+{
+	
+	"routes": [
+	{ "route": "/festivals/karwachauth/*",       "redirect": "/karwachauth",     "statusCode": 301 },
+	{ "route": "/festivals/karwa-chauth/*",       "redirect": "/karwa-chauth",     "statusCode": 301 },
+	{ "route": "/dussehra/*",       "redirect": "/dussehra",     "statusCode": 301 },
+    { "route": "/sharradh/*",       "redirect": "/shraddh",     "statusCode": 301 }
+
+
+  ],
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html"
+    }
+  }
+}

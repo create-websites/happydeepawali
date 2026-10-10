@@ -30,8 +30,24 @@
       </div>
 
       <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Folders</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/navratri/basics/" class="hover:text-white hover:underline transition-colors duration-200">Basics</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/fashion/" class="hover:text-white hover:underline transition-colors duration-200">Fashion</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/fasting/" class="hover:text-white hover:underline transition-colors duration-200">Fasting</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/garba-dandiya/" class="hover:text-white hover:underline transition-colors duration-200">Garba Dandiya</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/kids/" class="hover:text-white hover:underline transition-colors duration-200">Kids</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/modern/" class="hover:text-white hover:underline transition-colors duration-200">Modern</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/navadurga/" class="hover:text-white hover:underline transition-colors duration-200">Navadurga</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/puja/" class="hover:text-white hover:underline transition-colors duration-200">Puja</a></li>
+          <li><a href="https://www.happydeepawali.org/navratri/regional/" class="hover:text-white hover:underline transition-colors duration-200">Regional</a></li>
+        </ul>
+      </div>
+
+      <div>
         <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
         <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/navratri/9-nights-detail.html" class="hover:text-white hover:underline transition-colors duration-200">9 Nights Detail</a></li>
           <li><a href="https://www.happydeepawali.org/navratri/ashtmi.html" class="hover:text-white hover:underline transition-colors duration-200">Ashtmi</a></li>
           <li><a href="https://www.happydeepawali.org/navratri/multi-lingual-cards.html" class="hover:text-white hover:underline transition-colors duration-200">Multi Lingual Cards</a></li>
           <li><a href="https://www.happydeepawali.org/navratri/navami.html" class="hover:text-white hover:underline transition-colors duration-200">Navami</a></li>
