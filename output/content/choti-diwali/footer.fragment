@@ -30,6 +30,13 @@
       </div>
 
       <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Folders</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/choti-diwali/messages-in-regional-languages/" class="hover:text-white hover:underline transition-colors duration-200">Messages In Regional Languages</a></li>
+        </ul>
+      </div>
+
+      <div>
         <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
         <ul class="space-y-2">
           <li><a href="https://www.happydeepawali.org/choti-diwali/abhyanga-snan-the-holy-pre-dawn-oil-bath.html" class="hover:text-white hover:underline transition-colors duration-200">Abhyanga Snan The Holy Pre Dawn Oil Bath</a></li>
