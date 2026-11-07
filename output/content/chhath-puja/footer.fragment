@@ -30,6 +30,13 @@
       </div>
 
       <div>
+        <h5 class="text-lg font-semibold text-white mb-4">Folders</h5>
+        <ul class="space-y-2">
+          <li><a href="https://www.happydeepawali.org/chhath-puja/messages-in-regional-languages/" class="hover:text-white hover:underline transition-colors duration-200">Messages In Regional Languages</a></li>
+        </ul>
+      </div>
+
+      <div>
         <h5 class="text-lg font-semibold text-white mb-4">Pages</h5>
         <ul class="space-y-2">
           <li><a href="https://www.happydeepawali.org/chhath-puja/chhath-puja-info.html" class="hover:text-white hover:underline transition-colors duration-200">Chhath Puja Info</a></li>
@@ -38,11 +45,11 @@
     </div>
 
     <div class="mt-8 text-center text-sm text-gray-400">
-      
+      <p class="text-sm text-gray-400">Diwali is on Nov 8, Choti Diwali is on Nov 7</p>
     </div>
 
     <div class="mt-12 border-t border-gray-700 pt-8 flex flex-col items-center justify-between sm:flex-row">
-      <p class="text-sm text-gray-400">&copy; 2026 happydeepawali. All rights reserved.</p>
+      <p class="text-sm text-gray-400">&copy; 2026 Wish Happy Choti Deepawali. All rights reserved.</p>
       
     </div>
 
